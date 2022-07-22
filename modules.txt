@@ -1,0 +1,2377 @@
+APL1001 Alternative Practice Histories
+APL2001 Alternative Practice Theories and Practices
+APL2004 Relational Mapping Design and Representation
+APL2005 Twentieth Century Architecture
+APL2007 Visual and Creative Practice Research Skills
+APL2023 The Place of Houses
+APL3001 Alternative Practice Coproducing Space
+APL3002 A Home for all  housing vulnerable populations
+APL3003 Creative Practice
+APL3004 Chinese politics culture and urban development architecture planning and visual culture
+APL8000 Conceptualising Landscape 20 credits
+APL8004 Conceptualising Landscape 10 credits
+APL8005 Advanced Landscape Design 1
+APL8006 Advanced Landscape Design Studio 2
+APL8007 Design Thesis MALAS
+APL8008 History of the Designed Landscape
+ARC1007 Architectural Design 11
+ARC1015 Introduction to Architecture
+ARC1016 Architectural Representation
+ARC2001 Architectural Design 21
+ARC2020 Dissertation Studies and Research Methods
+ARC2024 About Architecture Cities Cultures and Space
+ARC3001 Architectural Design 31
+ARC3014 Professional Practice and Management 31
+ARC3015 Theory into Practice
+ARC4020 Architecture in Practice
+ARC4021 Professional Development
+ARC4022 Special Project
+ARC5020 Exchange Study Project Semester 2
+ARC5025 Exchange Study Project Semester 1
+ARC7068 Service Delivery and Practice Management
+ARC7069 Legal Framework and Building Procurement
+ARC7070 Professional Development and Reflection
+ARC8019 Energy Mapping
+ARC8020 Urban Energy
+ARC8021 DissertationUrban Energy
+ARC8022 Research Project  Urban Energy
+ARC8028 Programming for Design
+ARC8048 Cities and Buildings Contemporary Issues in Urban Design
+ARC8051 Tools for Thinking About Architecture
+ARC8052 Architectural Design Semester 2
+ARC8053 Dissertation in Architecture A
+ARC8055 Architectural Design Studio for MSc in Sustainable Buildings and Environments
+ARC8058 Linked Research Project A
+ARC8060 Architectural Design
+ARC8061 Architecture  Construction Process  Management
+ARC8062 Dissertation in Architecture B
+ARC8064 Thesis Research Document
+ARC8065 Cities and Culture
+ARC8067 Academic Portfolio
+ARC8068 Linked Research Project B
+ARC8069 Housing Alternatives
+ARC8077 Approaches to Architectural Design 1
+ARC8078 Approaches to Architectural Design 2
+ARC8082 Research Through Design
+ARC8088 Living Technologies Studio
+ARC8097 Design Thesis
+ARC8112 Building Performance Simulation
+ARC8113 Urban Performance Simulation
+ARC8116 Architecture and Cities specialist studio
+ARC8117 Design thesis or dissertation
+ARC8118 Development finance
+ARC8119 Property  Development Specialist Studio
+ARC8120 Design research methods
+TCP1018 Design Awareness and Communication
+TCP1019 Economics of Development I
+TCP1020 Environment and Sustainability
+TCP1025 Social Worlds
+TCP1026 Understanding Place Methods and Perspectives
+TCP1027 Shaping Towns and Cities
+TCP2005 Houses and Homes
+TCP2006 Design  Neighbourhood
+TCP2025 Researching Local Economies
+TCP2027 Research Skills
+TCP2028 Understanding Cities
+TCP2031 Digital Civics  designing applications for digital public engagement
+TCP2033 Urban Infrastructures A Lens on the City
+TCP2034 How Public is Public Space An interdisciplinary perspective
+TCP2035 Study Visit
+TCP2036 Global Course on Institutional Design for Spatial Planning
+TCP2037 Erasmus Exchange for Stage 2
+TCP2038 Researching Local Economies Placement
+TCP3054 Planning Theory and Politics
+TCP3055 Erasmus Exchange
+TCP3056 Disasters Monsters and Mess
+TCP3059 Strategies Into Action Urban Design
+TCP3060 Food Space and Polity
+TCP3061 Contemporary Planning Issues
+TCP3099 Dissertation
+TCP4002 Practice Issues Report
+TCP4003 Practice Issues Presentation
+TCP4004 Professional Practice LogBook and Development Plan
+TCP7021 Project 1 Spatial Strategies
+TCP7023 Economics of Development
+TCP7024 Conservation and the City
+TCP7026 European Research Project
+TCP8001 Planning Frameworks
+TCP8003 Engaging With Information Sources in Planning
+TCP8024 Consultancy Project
+TCP8025 Linked Research Project
+TCP8034 Planning and Sustainability
+TCP8052 Urban Design Seminars
+TCP8055 Visual Communication Techniques
+TCP8089 European Placement Preparation
+TCP8090 Principles and Practice of Urban Design MAUD
+TCP8096 Green Infrastructure and Landscape Planning 1
+TCP8097 Green Infrastructure and Landscape Planning 2 Project
+TCP8099 Dissertation
+TCP8902 The Reflexive Practitioner
+TCP8911 Research Design
+TCP8912 Conservation and the City Project
+TCP8917 Regenerating Places
+TCP8918 Regenerating Places Project
+TCP8920 Globalisation and Social Justice Project
+TCP8921 Globalisation and Social Justice
+TCP8939 Planning Power and People
+TCP8940 Delivering Regeneration
+TCP8942 Reflexive Practitioner MPlan version
+TCP8950 Valuation and Appraisal for Planning
+TCP8953 Back to the future questioning the rebirth of common ownership local democracy and postFDI economic models
+TCP8954 Housing and Settlements
+TCP8955 Critical Perspectives on Heritage Practices
+TCP8956 Environmental Assessment
+TCP8957 Critical and Applied Perspectives on Heritage Practice
+DMS8012 Advanced Creative Digital Practice Live Electronic Performance
+DMS8013 Advanced Creative Digital Practice Graphics Data and Physical Computing
+FIN1011 Studio Practice I
+FIN1013 Art Histories I
+FIN1014 Art Histories II
+FIN2013 Studio Practice I
+FIN2014 Studio Practice II
+FIN2017 Art Since 1945
+FIN2019 Gender and Contemporary Art
+FIN2030 Art and Protest
+FIN2038 Modern and Postmodern Photography
+FIN2041 Electric Dreams and Nuclear Visions Art Science  Medicine in the Twentieth Century
+FIN2042 Fleshful Things The Body and Visual Art
+FIN3010 Studio Practice I
+FIN3011 Studio Practice II with Study Abroad
+FIN3012 Studio Practice III
+FIN3013 Studio Practice IV with study abroad
+FIN3014 Studio Practice I
+FIN3015 Studio Practice II
+FIN3019 Gender and Contemporary Art
+FIN3027 Art since 1945
+FIN3038 Modern and Postmodern Photography
+FIN3040 Art and Protest
+FIN3041 Electric Dreams and Nuclear Visions Art Science  Medicine in the Twentieth Century
+FIN3042 Fleshful Things The Body and Visual Art
+FIN3097 Art History Dissertation
+FIN4012 Studio Practice II
+FIN4013 Studio Practice III
+FIN4014 Studio Practice IV
+FIN4015 Studio Practice V
+FIN4016 LifeWorkArt External Project
+FIN4023 Art Writing
+FIN8000 Professional Arts Practice
+FIN8001 Dissertation Subject Development
+FIN8002 Studio Work Stage 1
+FIN8003 Studio Work Stage 2
+FIN8005 Beyond Discipline
+FIN8010 Artwork and Audience
+FIN8011 Interrogating your discipline
+FIN8099 Dissertation
+HSS8120 Creative Digital Practice
+HSS8121 Public Making
+HSS8123 Creative Practice Project
+MCH1011 Introduction to Film Technologies
+MCH1023 Introduction to Media Studies
+MCH1025 Introduction to Research Methods
+MCH1026 Introduction to Social and Cultural Studies
+MCH1028 Introduction to Professional Communication
+MCH1030 Introduction to Journalism Practice
+MCH1031 Introduction to Multimedia Technologies for Media Studies
+MCH1034 Introduction to World Cinema Ideas Art Cultures
+MCH1035 Starting out in Filmmaking
+MCH1036 Journalism Pasts present and future
+MCH1037 Introduction to Multimedia Technologies for Film and Journalism
+MCH1038 Introduction to the Documentary From documentation to nonfiction film
+MCH1039 Introduction to the Film Industry
+MCH2000 Film Theory for Practice 1 What is cinema
+MCH2001 Film Theory for Practice 2 Why Cinema
+MCH2002 Filmmaking Ideas to Screen
+MCH2010 Online User Experience
+MCH2011 Memory Matters Mediating Present Pasts for the Future
+MCH2012 Analysing Social Media Interactions
+MCH2013 Gender Food and Communication
+MCH2020 Student Exchange Semester 1
+MCH2034 Introduction to Public Relations
+MCH2035 Media Mythology and Storytelling How to analyse archetypes and ideologies in media texts
+MCH2059 Media Law and Ethics
+MCH2060 Multimedia Journalism I
+MCH2065 Race Culture and Identity
+MCH2069 Research Methods
+MCH2071 Sex Sexuality and Desire
+MCH2077 Visual Culture
+MCH2080 Celebrity Culture
+MCH2082 Making a Short Documentary
+MCH2086 Analysing Documentary Practices
+MCH2087 Media Democracy and the Public Sphere
+MCH2088 Feminist Approaches to Media Analysis
+MCH2089 Broadcast Journalism 1 Radio
+MCH2220 Conflict and Crisis Reporting
+MCH3001 Magazine Publishing
+MCH3002 Youth Identity and Contemporary Media
+MCH3010 Independent Filmmaking
+MCH3011 Working in the Film Industry
+MCH3012 Fashion Communication and Culture
+MCH3013 Global Public Relations
+MCH3063 Advertising and Consumption
+MCH3067 Television Texts Genres and Screens
+MCH3072 Journalism and Media Research Dissertation
+MCH3073 Media Research Dissertation
+MCH3074 Themes and Issues in Media Communication and Cultural Studies
+MCH3077 Politics Power and Communication
+MCH3079 Multimedia Journalism II
+MCH3081 Digital Interfaces and Everyday Life
+MCH3084 Film Practice Project
+MCH3086 Film Practice Project
+MCH3089 Broadcast Journalism 2 TV
+MCH3164 Politics and International Relations for Journalists
+MCH3169 Digital Communication for Cultural Institutions and Organisations
+MCH3997 Our Visual Past Ancient Rock Art in the UK and Internationally
+MCH8004 Film Practice Project
+MCH8013 Global Public Relations
+MCH8029 Arts as Enterprise  Freelancing in Arts Media and Culture 2
+MCH8057 Media Analysis
+MCH8058 Methodologies Researching Media Culture  Society
+MCH8059 Media and Law
+MCH8060 Strategies and Management in PR
+MCH8061 Professional Subediting
+MCH8065 Theoretical Approaches to PR
+MCH8163 News and Journalism
+MCH8164 Politics and International Relations for Journalists
+MCH8165 Advanced Reporting Skills
+MCH8166 Broadcast and Video Journalism
+MCH8167 Online Journalism
+MCH8169 Digital communication for cultural institutions and organisations
+MCH8171 Digital Mobile Photojournalism Sem 1
+MCH8172 Digital Mobile Photojournalism Sem 2
+MCH8177 Politics Power and Communication
+MCH8178 Public Relations in Government and Politics
+MCH8199 Dissertation for MA Media and Public Relations
+MCH8299 Dissertation for MA Media and Journalism
+MCH8399 Dissertation in Media and Society Research
+MCH8501 Understanding Challenges in MuseumGalleryHeritage Studies
+MCH8502 Managing Projects in the MuseumGalleryHeritage Sector
+MCH8503 Communicating and Learning in MuseumGalleryHeritage Studies
+MCH8504 Caring for Collections in the MuseumGalleryHeritage Sector
+MCH8516 Museum Gallery Heritage Practice
+MCH8517 Museum EmployerBased Placement
+MCH8518 Heritage EmployerBased Placement
+MCH8519 Gallery EmployerBased Placement
+MCH8532 Understanding Academic and Applied Research in MuseumGalleryHeritage Studies
+MCH8550 Working on a Project in the Museums Sector
+MCH8551 Working on an Art Museum and Gallery Project
+MCH8552 Working on a Project in the Heritage sector
+MCH8598 Employerbased Project
+MCH8599 Research Dissertation
+MCH8600 Museum Gallery Heritage Professional Practice and Research
+MCH8601 Research  VocationallyOrientated Project
+MCH9001 MLitt Cultural Property Protection Research Assignments
+MCH9002 MLitt Cultural Property Protection Dissertation
+MCH9501 MLitt Heritage Museums and Galleries Research Assignment
+MCH9502 MLitt Heritage Museums and Galleries Dissertation
+MUS1001 Essentials of Music Theory
+MUS1002 Applications of Music Theory Sem2
+MUS1004 Applications of Music Theory Sem1
+MUS1005 Recording in the Music Studio
+MUS1011 Understanding World Music
+MUS1012 Understanding Music History
+MUS1014 Introduction to Popular Music Studies
+MUS1015 Composing in the Music Studio
+MUS1044 Composing and Analysing Music
+MUS1058 Performance Studies 1
+MUS1059 Contemporary Pop Performance
+MUS1092 Ensemble 1
+MUS1096 Traditions of These Islands
+MUS2004 Themes in Musical Modernism
+MUS2015 Contemporary Studio Practice
+MUS2017 Historic Techniques of Composition
+MUS2018 Contemporary Musical Materials
+MUS2041 Approaches to Notated Contemporary Composition
+MUS2044 Practising Music Analysis
+MUS2050 Music Theory 2 Stylistic Analysis and Composition in Folk and Modal Musics
+MUS2054 Music and Cultural Theory
+MUS2058 Performance Studies 2
+MUS2059 Contemporary Music Practice 2
+MUS2060 Ethnomusicology
+MUS2083 American Popular Music
+MUS2084 Conducting Studies
+MUS2085 Popular Music and Media
+MUS2088 Folk Music Studies Resources and Research Materials
+MUS2092 Ensemble 2
+MUS2094 Additional Performance Studies Folk and Traditional Music 2
+MUS2195 Music Enterprise
+MUS2196 Teaching Music in Community Contexts
+MUS3003 Music in the Soviet Union Level 6
+MUS3012 Major Specialist Study Composition
+MUS3013 Major Specialist Study Dissertation
+MUS3014 Major Specialist Study Performance
+MUS3015 Major Specialist Study Project
+MUS3016 Minor Specialist Study Composition
+MUS3017 Minor Specialist Study Dissertation
+MUS3018 Minor Specialist Study Performance
+MUS3019 Minor Specialist Study Project
+MUS3025 Beethoven and his legacy
+MUS3029 Music Politics and Policy
+MUS3038 Music and Identity in the Caribbean
+MUS3076 Music and Philosophy
+MUS3088 Folk Music Gender and Identity
+MUS3093 Folk Ensemble 3
+MUS3095 Music Enterprise
+MUS3107 Sacred Song in the Middle Ages
+MUS3111 Teaching Music in Schools  sociocultural contexts and approaches to practice
+MUS3113 World Jazz level 6
+MUS3196 Student Placement for Education in the Community
+MUS8101 Music Masters Research Training
+MUS8160 Elective Project 1
+MUS8161 Elective Project 2
+MUS8162 Elective Project 3
+MUS8165 Music Masters Research Training
+MUS8167 Elective Project 4
+MUS8202 Dissertation
+MUS8264 Major Creative Project
+MUS9001 Music MLitt Research Assignments
+SEL3037 Religion and Recent US Film
+BGM1002 Biochemistry
+BGM1004 Genetics
+BGM2002 Biochemistry and Genetics of Signalling and the Cell Cycle
+BGM2056 DNA Replication recombination and Repair
+BGM2058 Evolution
+BGM2061 Protein Trafficking and Biological Membranes
+BGM2062 Advanced Protein Analysis
+BGM2063 Approaches to analysis of genes and genomes
+BGM3024 The Molecular Basis of Cancer
+BGM3039 Medical Biotechnology
+BGM3046 Research in Biochemistry  Genetics
+BGM3056 Evolution and Genomics
+BGM3057 Integrated Biochemistry
+BGM3058 Integrated Genetics
+BGM3060 Diagnostic Medical Genetics
+BGM3061 Genetic variation in common disease
+BGM3063 Biochemistry of Gene Expression
+BGM3064 Applied Biochemistry
+BGM3065 Biochemistry of Cancer and Chronic Diseases
+BMN1001 Biochemistry
+BMN1002 Cell Biology
+BMN1003 Genetics
+BMN1004 Practical Skills in Biomedical  Biomolecular Sciences 1
+BMN2001 Control of Eukaryotic Gene Expression
+BMN2004 Cell and Molecular Biology of the Immune System
+BMN2006 Cell Biology and Disease
+BMS2002 Cell Biology and Disease
+BMS2011 Neuroscience from cell to cognition
+BMS2012 Clinical Immunology and Viral Pathogens
+BMS2013 Practical and Presentational Skills in Biomedical Sciences
+BMS2014 The Biology of Ageing
+BMS2015 Health and disease at mucosal surfaces
+BMS3000 Project in Biomedical Sciences  Business
+BMS3003 Business Enterprise for the Bioscientist
+BMS3007 Research in Biomedical Sciences
+BMS3008 Integrated Biomedical Sciences
+BMS3010 Genetics and Human Disease
+BMS3015 Healthcare organisation and practice
+BMS3016 Science Communication
+BMS3020 Chronic Disease
+BMS3021 Immunology of Health and Disease
+BMS3022 Bioethics
+BMS3023 Epidemiology
+BMS3025 Bioinformatics
+BMS3030 Professional Placement Year
+BSA1001 Practical Skills in Biochemistry for Study Abroad
+BSA1002 Practical Skills in Cell Biology for Study Abroad
+BSA1003 Practical Skills in Genetics for Study Abroad
+BSA1004 Practical Skills in Microbiology and Immunology for Study Abroad
+BSA1005 Practical Skills in Physiology for Study Abroad
+BSA1006 Practical Skills in Pharmacology for Study Abroad
+CMB1003 Microbiology and Immunology
+CMB1004 Cell Biology
+CMB1006 Practical Skills in Biomedical and Biomolecular Sciences 2
+CMB1007 Practical Skills for Biomedical Sciences with Business 1
+CMB1008 Practical Skills for Biomedical Sciences with Business 2
+CMB2000 Essential Biomedical Research Skills
+CMB2002 Cell and Molecular Biosciences
+CMB2003 Molecular Medicine
+CMB2005 Practical Skills in Biomedical and Biomolecular Sciences 3
+CMB2007 Human Anatomy
+CMB2008 Clinical Cases in Neuroscience
+CMB3000 Research Project
+CMB3001 Research Design Project
+CMB3002 Research project for exchange students
+CMB3004 Research Project for Stage 3 MSci Students
+CMB4099 Research Project
+ESC1001 Anatomy
+ESC3007 Integrated Exercise Biomedicine
+MIC2025 Bacterial interactions with human hosts and the immune system in human disease
+MIC3043 Research in Medical Microbiology and Immunology
+MIC3045 Immune Recognition
+MIC3046 Microbiota and pathogens Mucosal Microbiota Protozoa and Fungi
+MIC3047 Bacterial pathogenicity and Disease
+MON2006 Molecular Mechanisms of Disease Monash Univerisity External Module
+NUT1001 Academic and Professional Skills for Nutrition 1
+NUT1002 Introduction to Human Nutrition
+NUT1003 Practical Skills in Nutrition 1
+NUT1004 Fundamental principles of genetics and biochemistry for nutrition
+NUT2001 Principles of Nutrition
+NUT2002 Applied  Experimental Nutrition
+NUT2003 Food Science and Technology
+NUT2004 Academic and Professional Skills for Nutrition 2
+NUT3001 Nutrition in Health and Disease
+NUT3003 Advanced Nutrient Metabolism and Requirements
+NUT3004 Selected Topics in Food and Human Nutrition Inactive
+NUT3008 Integrating Food and Human Nutrition
+NUT3102 Research Project Inactive
+PED1003 Pharmacology
+PED2001 Drug Disposition and Pharmacokinetics
+PED2006 Systems Pharmacology
+PED2007 Cardiovascular Pharmacology
+PED3001 Pharmacological Techniques
+PED3003 Clinical Pharmacology and Drug Development
+PED3005 Advanced Pharmacogenetics
+PED3006 Carcinogenesis and Anticancer Drugs
+PED3008 Advanced Topics in Neuropharmacology
+PED3011 Toxicology
+PED3012 Integrated Pharmacology
+PED3013 Research in Pharmacological Sciences
+PSC1002 Physiology
+PSC2016 Molecular Physiology and Pathophysiology
+PSC2018 Human Anatomy for Physiologists
+PSC2019 Renal and Respiratory Physiology
+PSC2020 Cardiovascular System Physiology
+PSC3008 Physiology of the Nervous System
+PSC3010 Research in Physiological Sciences
+PSC3011 Physiology of the Gastrointestinal Tract 1
+PSC3012 Integrated Physiology
+PSC3013 Physiology of the Gastrointestinal Tract 2
+SES1000 Human Physiology and Practical Skills
+SES1003 Introduction to Biomechanics
+SES2003 Research Methods for Sport and Exercise Science
+SES2005 Applied Biomechanics
+SES3000 Sport and Exercise Science Research Project Inactive
+SES3001 Sport and Exercise Medicine Inactive
+SES3002 Factors Affecting Elite Performance Inactive
+NCL1001 Career Planning Module
+NCL2007 Career Development for second year students
+NCL2100 Developing Enterprise Entrepreneurship and Employability
+NCL3000 Career Service Placement Year Module
+NCL3007 Career Development for final year students
+NCL3008 Advanced Career Development module
+NCL3100 Applied Entrepreneurship
+NCL8007 Career Development for Masters Level Students Cracking Careers Exploring and Driving your Career Options
+CSC1021 Programming I
+CSC1022 Programming II
+CSC1023 The Software Engineering Professional
+CSC1025 Mathematics for Computer Science
+CSC1026 Website Design and Construction
+CSC2021 Software Engineering
+CSC2022 Software Engineering Team Project
+CSC2023 Algorithm Design and Analysis
+CSC2024 Database Technology
+CSC2025 Operating Systems
+CSC2026 Computer Networks
+CSC2513 Database Systems
+CSC3096 Vacation Research Project for Computer Science
+CSC3424 Bioinformatics
+CSC6001 Computer Applications
+CSC8001 Programming and Data Structures
+CSC8002 Advanced Programming
+CSC8005 Software Engineering with Group Project
+CSC8008 Information Systems
+CSC8009 Research Methods for Computer Science
+CSC8099 Project and Dissertation for MSc Computer Science
+CSC8101 Big Data Analytics
+CSC8103 Distributed Algorithms
+CSC8104 Enterprise Middleware
+CSC8105 System Validation
+CSC8106 System Evaluation
+CSC8109 Group Project in Cloud Computing
+CSC8110 Cloud Computing
+CSC8111 Machine Learning
+CSC8199 Project and Dissertation for MSc Cloud Computing
+CSC8201 The Challenge of Dependable Systems
+CSC8202 Information Security and Trust
+CSC8204 High Integrity Software Development
+CSC8205 Research Skills
+CSC8206 Group Project in Computer Security and Resilience
+CSC8207 Security Analysis of Complex Systems
+CSC8304 Computing Environments for Bioinformatics
+CSC8307 Comparative and Evolutionary Genomics
+CSC8308 escience for Bioinformatics
+CSC8309 HighThroughput Technologies in Bioinformatics
+CSC8311 Advanced Programming for Biologists
+CSC8313 Bioinformatics Theory and Practice
+CSC8314 Neuroinformatics
+CSC8315 Synthetic Biology
+CSC8316 Modelling Cellular Systems
+CSC8317 Introductory Programming for Biologists
+CSC8318 Synthetic Biology Group Project
+CSC8319 Stochastic Systems Biology
+CSC8390 Research Skills for Bioinformatics
+CSC8395 Research Project for Neuroinformatics
+CSC8396 Research Project for Synthetic Biology
+CSC8397 Research Project for Computational Systems Biology
+CSC8398 Research Project for Bioinformatics
+CSC8404 Advanced Programming in Java
+CSC8405 Research Methods for EBusiness and Information Systems
+CSC8406 Objectoriented programming
+CSC8407 Project  Dissertation in EBusiness
+CSC8498 Project and Dissertation for MCOMP
+CSC8499 Project and Dissertation for MSc in Advanced Computer Science
+CSC8501 Advanced Programming for Games
+CSC8502 Advanced Graphics for Games
+CSC8506 Engineering Gaming Solutions within a Team
+CSC8509 Project and Dissertation in Computer Game Engineering
+CSC8621 Computer Science for Mathematicians
+CSC8625 Group Project in Cloud Computing for Big Data
+CSC8626 Data Visualization
+CSC8627 Programming for Big Data
+CSC8699 Research Project and Dissertation in Cloud Computing for Big Data
+ICM0043 Intercalating Module for Computing Science Programmes
+ICM0045 MCOMP Study Abroad
+SUG3500 Creativity and Market Research in Science and Engineering
+DCI8006 Clinical assessment and surgery for dental implantation
+DCI8007 Restoration and maintenance of dental implants
+DCI8008 Theory of implant dentistry and simulated skills training
+ALC2010 Professional Communication Skills
+ALC2011 Language and Cross Cultural Communication
+ALC3011 Working in Intercultural Settings
+ALC8001 The Social Psychology of Communication
+ALC8002 Sociolinguistics
+ALC8003 Research Portfolio
+ALC8007 Professional Communication
+ALC8008 Language and CrossCultural Communication
+ALC8009 English in the World Global and Cross Cultural Issues Surrounding English as a Lingua Franca
+ALC8010 Culture Interculturality and Identity
+ALC8012 Introduction to Interaction Analysis
+ALC8020 Research Methods in Applied Linguistics
+ALC8021 Understanding Multimodal Communication
+ALC8022 ComputerAssisted Language Learning
+ALC8024 Language Awareness
+ALC8025 English Language Teaching Methods
+ALC8026 Language Learning
+ALC8027 Spoken Interaction in Language Learning and Testing Contexts
+ALC8028 Thinking Skills in ELT
+ALC8029 TESOL for Young Learners
+ALC8030 Reflective Practice and Second Language Teacher Development
+ALC8031 Discourse Analysis
+ALC8033 English for Academic Purposes
+ALC8036 Materials Design and Evaluation in TESOL
+ALC8098 Dissertation
+ALC8110 Research Design Academic Writing and Publishing for Doctoral Students
+ALC8111 Educational and Applied Linguistics Research Project
+EDU1001 Education Children and Society
+EDU1002 International Development
+EDU1003 British and Comparative Education
+EDU1004 Internationalising University Experience
+EDU1005 The History of Education
+EDU1006 Education in Developing Countries
+EDU2001 Pedagogies
+EDU2002 Global Innovations in Education
+EDU2003 Introduction to Research in Education
+EDU2004 Global Developments in Technology Enhanced Learning
+EDU2005 Representations and Images of Teaching in Literature Film and Television
+EDU2007 Invisibility  Different Ways of Being Educating  Nurturing Students with Special Needs
+EDU2008 Globalisation and Development
+EDU3001 Research Dissertation
+EDU3002 Social Justice and Education
+EDU3005 Philosophy of Education
+EDU3006 Responding to Special Educational Needs
+EDU3007 Developing Creative Thinking through Arts Experience
+EDU3008 Child Development
+EDU6098 Research DissertationResearchBased Portfolio Educational Leadership and Management
+EDU8009 Thinking Through Teaching The Reflective Practitioner
+EDU8010 EdD Core Module 1 Practices of Inquiry introduction to epistemological and methodological considerations through selfreflection and peer interviewing
+EDU8011 EdD Core Module 2 Practices of Enquiry introduction to critical reading comparative and synthesis methods in literature review
+EDU8019 Dissertation Action Research Portfolio
+EDU8031 Curriculum pedagogy and assessment as foundations of teaching and learning
+EDU8033 Investigating Educational Leadership
+EDU8046 Developing Thinking Skills
+EDU8047 Inclusion and Diversity
+EDU8048 Working in Partnership
+EDU8049 Learning and Social Environment
+EDU8050 Frameworks for Practice
+EDU8056 Professional Practice Placement A and Portfolio 1
+EDU8057 Professional Practice Placement B and Portfolio 2
+EDU8095 Research Strategies and Methods
+EDU8110 NPQML Accreditation
+EDU8111 NPQSL Accreditation
+EDU8130 NPQH Accreditation
+EDU8133 Critical Reflection on Professional Practice L1
+EDU8134 Professional Learning in Context Primary
+EDU8139 NPQML Accreditation
+EDU8143 NPQSL Accreditation
+EDU8172 Leadership and Strategic Management
+EDU8202 Investigating Learning Processes 30 credit version
+EDU8203 Investigating Learning Processes 40 credit version
+EDU8207 EdD Core module 3 Thinking Critically about Research Methodology
+EDU8208 Dissertation IPhD in Education and Communication
+EDU8211 The Role of the State in Education Education Policy and Entrepreneurship for Development
+EDU8212 Placement Module
+EDU8213 The Future of Learning
+EDU8214 International Development Theory and Practice
+EDU8215 Dissertation International Development and Education
+EDU8218 Comparative Education and Pedagogy
+EDU8221 Subject Pedagogy in Practice
+EDU8222 Developing critical perspectives on teaching thinking skills
+EDU8223 Curriculum development through enquiry in practice
+EDU8224 Dissertation International Development and Education with CrossCultural Communication
+EDU8228 Investigating Technology Enhanced Learning
+EDU8321 Subject Pedagogy in Practice
+EDU8322 Developing critical perspectives on teaching thinking skills
+EDU8323 Curriculum development through enquiry in practice
+EDU8399 MA Education Research Dissertation
+EDU8499 MEd Practitioner Enquiry Research DissertationResearchBased Portfolio
+EDU8599 Research DissertationResearchbased Portfolio Educational Leadership and Management
+EDU8900 NPQML Reflection on Professional Practice
+EDU8901 NPQSL Reflection on Professional Practice
+EDU8902 NPQH Reflection on Professional Practice
+EDU8995 Research in Practice
+LCC2010 Professional Communication Skills
+LCC2011 Language and Cross Cultural Communication
+LCC3011 Working in Intercultural Settings
+SPE1050 Anatomy  Physiology for Speech and Language
+SPE1051 Research Methods in Practice I
+SPE1052 Brain and Behaviour Across the Lifespan I Developmental and Social Psychology
+SPE1053 Linguistics and Phonetics I
+SPE1054 Introduction to Speech and Language Pathology
+SPE1055 Clinical and Professional Education I
+SPE2040 Research Methods in Practice II
+SPE2041 Clinical and Professional Education II
+SPE2042 Linguistics and Phonetics II
+SPE2043 Brain and Behaviour II
+SPE2044 Speech and Language Pathology II Cases
+SPE3025 Brain and Behaviour III
+SPE3026 Clinical and Professional Education III
+SPE3027 Research Methods in Practice III
+SPE3033 Speech and Language Pathology III Head and Neck
+SPE3034 Speech and Language Pathology III Sensory
+SPE3035 Speech and Language Pathology III Motor Sensorimotor speech disorders Speech voice fluency cerebral palsy
+SPE3036 Speech and Language Pathology III Cognitive
+SPE4007 Dysphagia
+SPE4011 Research Methods in Practice IV
+SPE4012 Professional Issues
+SPE4014 Clinical and Professional Education IV
+SPE8011 Fundamental Elements of Phonetics and Phonology
+SPE8028 Phonological Acquisition
+SPE8032 Core Issues in Experimental Phonetics and Phonology
+SPE8046 Acquired Motor Speech Disorders
+SPE8151 MSc Phonetics I
+SPE8152 Msc Speech and Language Pathology ICases
+SPE8153 Msc Clinical and Professional Education I
+SPE8154 MSc Child Development Child Development and Speech Language Acquisition MSc
+SPE8155 MSc Linguistics
+SPE8156 Msc Brain and Behaviour I
+SPE8157 Msc Speech and Language Pathology 1 Sensory
+SPE8158 Anatomy  Physiology for Speech and Language
+SPE8204 Dysphagia
+SPE8210 Phonetics II Segment Gesture and Prosody
+SPE8214 Research Methods in Clinical Practice II
+SPE8217 MSc Brain and Behaviour II
+SPE8218 MSc Speech and Language Pathology II Cognitive
+SPE8219 SensoriMotor speech disorders Speech voice fluency cerebral palsy
+SPE8220 MSc Speech and Language Pathology II Head and Neck
+SPE8221 Msc Clinical and Professional Education II
+SPE8301 Critical Appraisal 2
+SPE8302 Research Project Masters Thesis
+SPE8304 Principles of EvidenceBased Practice in Communication Disorders
+SPE8307 Scientific Writing for Publication
+SPE8319 Phonetics and Phonology Research Project
+SPE8320 Research Project Management
+CEG1001 Design of Sustainable Engineering Systems 1
+CEG1004 Design of Sustainable Engineering Systems 1
+CEG1101 Environmental Systems
+CEG1201 Geotechnical Properties of Soils and Rocks
+CEG1302 Structural Mechanics
+CEG1303 Engineering Materials
+CEG1501 Fluid Mechanics
+CEG1701 Mapping Fieldcourse
+CEG1702 Geographic Information Systems
+CEG1703 Surveying
+CEG1705 An Introduction to GNSS and its Applications
+CEG1706 Principles of Remote Sensing
+CEG1707 Quantitative Methods for Geomatics
+CEG1709 Engineering Surveying I
+CEG1710 Geographic Information Systems
+CEG1711 Tutorial Study Skills for Geomatics
+CEG1712 Fundamentals of Surveying I
+CEG1713 Informatics 1
+CEG2001 Design of Sustainable Engineering Systems 2
+CEG2101 Treatment of Water and Wastewater
+CEG2201 Geotechnics
+CEG2301 Structural Analysis
+CEG2302 Steel and Concrete Structures
+CEG2303 Construction Materials
+CEG2401 Land Traffic and Highways
+CEG2501 Hydraulics
+CEG2701 Digital Surveying
+CEG2703 Observation Processing and Analysis
+CEG2704 Geographic Information Systems Theory and Application
+CEG2707 Map Projections and Geodetic Datums
+CEG2708 Photogrammetry and Laser Scanning I
+CEG2709 Applied Remote Sensing and Image Processing
+CEG2710 GNSS Theory and Practice
+CEG2712 Engineering Surveying II
+CEG2717 Fundamentals of Surveying II
+CEG2718 Applied Geospatial Data Handling
+CEG2719 GNSS for Geoscientists and Engineers
+CEG2720 Geomatics Practice and Research
+CEG2721 Spatial Data Modelling and BIM
+CEG2722 Informatics 2
+CEG2723 Digital Data Acquisition
+CEG3001 Design of Sustainable Engineering Systems 3
+CEG3002 Construction Management
+CEG3003 Engineering Ethics and Sustainability
+CEG3004 Sustainable Engineering Systems Design Project
+CEG3099 Individual Project
+CEG3201 Geotechnical Design
+CEG3301 Design of Building Systems
+CEG3302 Structural Analysis 2
+CEG3305 Computational Engineering Analysis
+CEG3401 Design of Transport Infrastructure
+CEG3503 Hydrosystems Engineering
+CEG3701 Advanced GIS Fieldcourse
+CEG3702 Advanced Survey Fieldcourse
+CEG3703 Professional Practice
+CEG3706 Photogrammetry and Laser Scanning II
+CEG3707 Geohazards and Deformation of the Earth
+CEG3709 Advanced Geodesy
+CEG3710 Offshore Surveying
+CEG3711 Map Projections and Datums for Engineers
+CEG3712 GNSS Surveying
+CEG3713 Computational Engineering Analysis B
+CEG3714 Analysis of Observations
+CEG3715 Environmental Informatics
+CEG3716 Geospatial Informatics
+CEG3717 Applied Geospatial Data Handling
+CEG3799 Individual Research Project
+CEG8002 Construction Project Management
+CEG8003 Public Policy Infrastructure and Climate Change
+CEG8005 Global Engineering  An International Design and Build Challenge
+CEG8099 Investigative Research Project
+CEG8101 Core Concepts in Environmental Engineering
+CEG8102 Introduction to Practical Hydraulics
+CEG8103 Water Supply and Treatment
+CEG8104 Wastewater Engineering
+CEG8105 Solid Waste Management
+CEG8106 Pollution Control Engineering for Groundwaters and Surface Waters
+CEG8107 Environmental Engineering for Developing Countries
+CEG8108 Environmental Engineering Design and Project Management
+CEG8110 Project Skills and Professional Development
+CEG8111 Environmental Fate of Contaminants
+CEG8198 MSc Project and Dissertation in Environmental Engineering
+CEG8201 Geomechanics
+CEG8202 Ground Investigation  Design Principles and Practice
+CEG8204 Ground Improvement Techniques
+CEG8205 Soil Modelling and Numerical Methods
+CEG8207 Field Class
+CEG8208 Geotechnical Design
+CEG8209 Engineering and Applied Geology
+CEG8296 MSc Project and Dissertation in Geotechnical Engineering and Engineering Geology
+CEG8304 Structural Reliability
+CEG8306 Engineering Mechanics of Composites
+CEG8308 Seismic Resistant Design
+CEG8309 Finite Element Analysis in Structural Mechanics
+CEG8310 Structural Engineering Field Course
+CEG8313 Structural Collapse Dynamics and Multiscale Modelling
+CEG8396 MSc Project and Dissertation in Structural Engineering
+CEG8403 Design of Transport Infrastructure
+CEG8405 Air Pollution
+CEG8408 Railway Management Economics and Planning
+CEG8409 Traffic and Environment Management for Sustainability
+CEG8410 Road Safety
+CEG8414 Electromobility and Low Carbon Vehicles
+CEG8415 ITS Technologies Systems and Implementation
+CEG8417 Field Class  Transport
+CEG8418 Transport Policy and Legislation
+CEG8419 Transport Modelling and Forecasting
+CEG8421 Traffic Flow and Control
+CEG8422 Intelligent Transport Systems
+CEG8423 Transport Research Methods
+CEG8424 Transport Planning and Sustainable Mobility
+CEG8425 Public Inquiry into a Transport Scheme
+CEG8426 Economic and Environmental Appraisal of Transport Activities
+CEG8427 Behavioural Models for Individual Choices
+CEG8428 Modelling and Simulation of Transport Networks
+CEG8495 Postgraduate Diploma Project and Dissertation in Transport
+CEG8496 MSc Project and Dissertation in Transport Engineering
+CEG8501 Quantitative Methods for Engineering
+CEG8502 Quantitative Methods for Engineering flexible
+CEG8505 Climate Change Earth System Future Scenarios and Threats
+CEG8506 Hydrosystems Modelling
+CEG8507 Borehole Design Construction and Operation
+CEG8509 Options for Flood Risk Management
+CEG8510 Flood Management Governance Planning and Project Appraisal
+CEG8511 Ground Water Assessment
+CEG8512 Integrated River Basin Management
+CEG8513 Hydroinformatic Systems Development
+CEG8514 Climate Change Vulnerability Impacts and Adaptation
+CEG8516 Groundwater Modelling
+CEG8517 Computational Hydraulics
+CEG8520 Hydrosystems Processes and Management
+CEG8523 Modelling and Forecasting of Floods
+CEG8594 Postgraduate Diploma Project and Dissertation in Water Resources Flexible Learning
+CEG8595 MSc Project and Dissertation in Water Resources Flexible Learning
+CEG8596 MSc Project and Dissertation in Water Resources
+CEG8702 An Introduction to the Fundamentals of GIS
+CEG8704 Theory and Application in Geographic Information Systems
+CEG8705 Geographic Information Systems
+CEG8706 Applied Surveying
+CEG8707 Geographic Information Systems for SAPL
+CEG8709 Introduction to Surveying for Town Planning
+CEG8710 Advanced Geodesy
+CEG8711 City Analytics
+CEG8790 Individual MSci Project
+CEG8901 STREAM Transferable Skills in Science and Engineering Leadership Unit V
+CEG8902 STREAM Transferable Skills in Science and Engineering Leadership
+CME1020 Chemistry
+CME1021 Thermodynamics
+CME1023 Transfer Processes
+CME1025 Principles of Chemical Engineering
+CME1026 Computing and Numerical Methods
+CME1027 Data Analysis in Process Industries
+CME2022 Separation Processes 1
+CME2023 Transfer Processes 2
+CME2024 Reactor Engineering
+CME2027 Chemistry 2
+CME2028 Thermodynamics 2
+CME2029 Process Measurement Dynamics  Control
+CME2030 Chemical Engineering Laboratory I
+CME2031 Safety Risk and Engineering Practice
+CME2116 Process Measurement Dynamics and Control
+CME2117 Computing and Simulation
+CME2120 Process Safety
+CME2121 Engineering Practice
+CME2122 Separation Processes 1
+CME2123 Transfer Processes
+CME2124 Reactor Engineering
+CME2126 Engineering Mathematics
+CME2127 Chemistry
+CME2128 Thermodynamics
+CME3008 Process Control 2
+CME3028 Industrial Design Project
+CME3032 Process Design  Economics
+CME3033 Separation Processes 2
+CME3034 Design for Process Safety
+CME3035 Reactor Systems Engineering
+CME3036 Process and Product Engineering
+CME3037 Separation Processes 2 Industry
+CME3039 Plant Design
+CME3040 Chemical Engineering Laboratory II
+CME3041 Placement Log Book
+CME3097 Materials degradation and Component Life
+CME3103 Process Design Economics  Project Management
+CME3104 Separation Processes 2
+CME3105 Solids Handling
+CME3107 Chemical Process Optimisation
+CME3108 Process Control
+CME3109 Plant Design
+CME3110 Renewable Energy Technologies
+CME3112 Sustainable Industry Design and Manufacture
+CME3122 Clean Technology Applications
+CME3123 Reactor Engineering 2
+CME3124 Chemical Engineering Laboratory OIP
+CME8008 Optimisation
+CME8009 Introduction to Computing with MATLAB and Simulink
+CME8010 Pollution Sources Impacts Monitoring and Control
+CME8011 Basic Chemical Engineering
+CME8012 Business and Environmental Management
+CME8013 Statistical Process Control
+CME8014 Data Analysis and Reconciliation for Control
+CME8016 Process Control Laboratory
+CME8018 Air Pollution
+CME8019 Energy Management
+CME8020 Modelling and Control in Bioprocess Systems
+CME8021 Safety Risk and Environmental Management
+CME8022 Hydrocarbon Production and Process Engineering
+CME8024 Practical Environmental Auditing
+CME8031 Tribology and Materials Design
+CME8032 Lifetime Prediction  Design for Reliability
+CME8035 Life Cycle Assessment
+CME8037 Sustainable Design and Manufacture I
+CME8038 Sustainable Industry
+CME8039 Materials and Fabrication
+CME8040 Corrosion and Corrosion Control
+CME8043 Fuel Cells System 1
+CME8044 Fuel Cells System II
+CME8050 Joining Technology
+CME8052 Integrated Design
+CME8054 Advanced Manufacturing Technology
+CME8055 Energy sources and storage
+CME8056 Manufacturing Materials and Processes
+CME8057 Mechanisms and Processes of Oxidation
+CME8095 Materials Project
+CME8096 Individual Library Project
+CME8097 Chemical Engineering Dissertation
+CME8098 Clean Technology Dissertation
+CME8099 Applied Process Control Dissertation
+CME8101 Nanoscale Science 1
+CME8103 Process Control 3  Design of Robust Control Algorithms
+CME8104 Process Control 4  Design of Digital Control Algorithms
+CME8107 Process Intensification
+CME8109 Bioprocess Engineering
+CME8110 Chemical Engineering Knowledge Industry
+CME8113 Sustainable Energy Management
+CME8117 MEng Research Project
+CME8118 Stability and Sustainability of Materials
+CME8119 Advanced Transport Processes
+CME8120 Advanced Design Project
+CME8121 Instrumentation and Measurement
+CME8124 Multivariate Methods
+CME8125 Process Intensification
+CME8126 Advanced Design Project
+CME8215 Introduction to Nanomaterials
+CME8216 Case Studies in Nanomaterials
+CME8217 Time Series and System Identification
+CME8501 Bioprocess Engineering Principles
+CME8502 Essential Mathematics and Systems Analysis
+CME8505 Computer Processing of Data
+CME8506 Research MethodologyExperimental Design
+CME8507 Scientists of the Future  Public Engagement
+CME8508 Advanced Systems Modelling and Analysis
+CME8509 Biomeasurement Technologies II
+CME8512 Advanced Automation
+CME8513 Emergent Technologies in Bioprocessing
+CME8514 Industrial Case Studies in Bioprocess Development
+CME8515 Bioapprentice
+CME8516 Bioprocess Integration
+CME8517 Implementation of Mathematical Techniques to Bioprocess Systems
+CME8518 Basic Laboratory Skills
+CME8519 Markets and the Structure and Organisation of an Enterprise
+CME8520 The Management of the Enterprise Projects Legal Issues and the Behaviour of People in Teams
+CME8521 Innovation IPR and Patents
+EEE1001 Fields Materials and Devices
+EEE1002 Electronics I
+EEE1003 Circuit Theory
+EEE1005 Signals and Communications I
+EEE1006 Electrical Engineering I for MECH
+EEE1007 Electrical Engineering I for MAR
+EEE1008 C Programming
+EEE1009 Communication Skills and Innovation
+EEE1010 Electronics I for Electronics and Computer Eng
+EEE2007 Computer Systems and Microprocessors
+EEE2008 Project and Professional Issues
+EEE2009 Signals and Communications II
+EEE2010 Electrical Engineering II
+EEE2012 Control and Electrical Machines
+EEE2013 Digital Electronics
+EEE2014 Semiconductor Devices and Analogue Electronics
+EEE2015 Electromagnetic Fields  Waves
+EEE2016 Analogue Electronics
+EEE2200 Automatic Control
+EEE2201 Electrical Systems
+EEE2202 Digital Electronics
+EEE2203 Analogue Electronics
+EEE2204 Random Signals and Processes
+EEE2205 Electromagnetic Fields and Waves
+EEE2206 Computer Systems and Microprocessors
+EEE2207 Project and Professional Issues
+EEE2208 Signals and Communications
+EEE3001 Linear Controller Design and State Space Analysis
+EEE3002 Electrical Machines
+EEE3003 Introduction to the Basics of Modern Power Electronics
+EEE3004 Digital Signal Processing
+EEE3007 Design and Test of Digital Systems
+EEE3008 Industrial Automation and Robotics
+EEE3009 Real Time and Embedded Systems
+EEE3011 Electric Drives
+EEE3012 Integrated Circuit Design
+EEE3013 Image Processing and Machine Vision
+EEE3014 Power System Operation
+EEE3015 Telecommunication Networks
+EEE3016 Photonics
+EEE3018 Digital Control Systems
+EEE3020 Electronic Devices
+EEE3021 Renewable Energy Systems and Smart Grids
+EEE3095 Individual Project and Dissertation BEng
+EEE3096 Individual Project and Dissertation BEng
+EEE3097 Individual Project and Dissertation BEng
+EEE3200 State Space Analysis and Controller Design
+EEE3201 Electrical Machines and Generators
+EEE3202 Power Electronics
+EEE3203 Generation Transmission and Distribution
+EEE3204 Renewable Energy Systems
+EEE3205 Thermofluid Dynamics
+EEE3206 High Voltage Technology
+EEE3207 Individual Project
+EEE8005 Industrial Automation Robotics and Artificial Intelligence
+EEE8006 Distributed Control Systems
+EEE8007 Digital Control Systems
+EEE8012 Power Electronics  Design  Implementation
+EEE8013 Linear Controller Design  State Space with Matlab Applications
+EEE8014 Control of Electric Drives
+EEE8015 Design and Analysis of Electrical Machines  Drives
+EEE8016 Electrical Machines and their applications
+EEE8017 Power Systems Operation  Analysis
+EEE8022 Microprocessor Systems
+EEE8028 Image Processing and Machine Vision
+EEE8044 Fundamentals of Distribution Engineering
+EEE8045 Environmental Health and Safety Management for Power Distribution Engineers
+EEE8046 Asset Management Maintenance and Condition Monitoring
+EEE8047 Network Design and Automation
+EEE8051 Overhead Lines
+EEE8053 Earthing
+EEE8054 Power Transformers
+EEE8072 Subsea Control and Communication Systems
+EEE8074 Coursework EP and AC
+EEE8075 Electrical Power and Control Project
+EEE8079 Technology Review Project
+EEE8080 Renewable Energy Systems and Smart Grids
+EEE8083 Smart Grids
+EEE8084 Individual Project
+EEE8086 Robust and Adaptive Control Systems
+EEE8087 Real Time Embedded Systems
+EEE8088 Reconfigurable Hardware Design
+EEE8089 M2M Technology Internet of Things
+EEE8093 Research Project
+EEE8097 Individual Project
+EEE8098 Image Processing and Computer Vision
+EEE8099 Information Theory and Coding
+EEE8100 Software tools for Digital System Design
+EEE8101 Mobile and Cellular Communications MEng
+EEE8102 Design of Electrical Machines and Drives
+EEE8103 Electronic Device Fabrication
+EEE8104 Digital Communications
+EEE8105 Distributed Control Systems MEng
+EEE8106 Extended Coursework on Applications and Design ECAD
+EEE8107 Extended Coursework on Applications and Design ECAD
+EEE8108 Individual Project and Dissertation MEng
+EEE8109 Individual Project and Dissertation MEng
+EEE8110 Individual Project and Dissertation MEng
+EEE8111 Study project
+EEE8112 Study project
+EEE8113 Group Design Project
+EEE8114 Industrial Project
+EEE8116 Bioelectronics
+EEE8119 Wired and Wireless Communication Networks and Security
+EEE8121 Internet of Things and Wireless Sensor Networks Coursework
+EEE8122 System on Chip Test and Validation
+EEE8123 Advanced Electronic Devices
+EEE8124 LowPower VLSI Design
+EEE8125 Advanced Device Fabrication
+EEE8126 Embedded Systems Architecture and Programming
+EEE8127 Microelectronics Design Tools
+EEE8128 Communications and Signal Processing Coursework
+EEE8129 Intelligent Signal Processing
+EXT8008 Water and Wastewater Treatment Principles
+EXT8009 Process Science and Engineering
+EXT8012 Group Design Project
+EXT8016 Cost Engineering
+EXT8017 Risk Management And Reliability Engineering
+ICM0054 Year in Industry
+MAR1009 Marine Mechanics
+MAR1010 Marine Engineering I
+MAR1011 Applications of Engineering
+MAR1012 Naval Architecture
+MAR1014 Marine Production Management I
+MAR1015 Materials in the Marine Environment
+MAR2017 Further Naval Architecture
+MAR2018 Marine Engineering II
+MAR2019 Ship Hydrodynamics
+MAR2020 Applications of Engineering II
+MAR2021 Marine Structures I
+MAR2101 Marine Dynamics
+MAR2104 Ship Resistance
+MAR2105 Marine Propulsion
+MAR2108 Naval Architecture II
+MAR2112 Engineering Applications
+MAR2113 Marine and Offshore Production Management
+MAR2115 Analytic Methods in Marine Technology
+MAR2116 Introduction to Business Management
+MAR2117 Marine Electrical Engineering
+MAR2118 Marine Engineering II
+MAR2121 Marine Structures I
+MAR3021 Marine Transport Business
+MAR3027 Future Marine Projects
+MAR3033 Marine Engineering Design
+MAR3036 Small Craft Design
+MAR3037 Marine Engineering III
+MAR3038 Dynamic Modelling and Simulation
+MAR3039 Marine Structures II
+MAR3040 Further Ship Hydrodynamics
+MAR3041 Offshore Engineering
+MAR3043 Project and Report in Marine Engineering
+MAR3044 Project and Report in Naval Architecture
+MAR3045 Project and Report in Offshore Engineering
+MAR3046 Project and Report in Small Craft Technology
+MAR3047 Marine Production Management
+MAR3071 Fundamentals of Marine Engineering
+MAR3111 Drilling Engineering
+MAR3117 Resistance and Propulsion II
+MAR3121 Marine Transport Business
+MAR3125 Subsea and Pipeline Engineering
+MAR3127 Future Marine Projects
+MAR3133 Marine Engineering Design
+MAR3134 Ship Design
+MAR3135 Offshore Design
+MAR3136 Advanced Ship and Offshore Hydrodynamics
+MAR3137 Marine Engineering III
+MAR3138 Dynamic Modelling and Simulation
+MAR3139 Marine Structures II
+MAR3143 Project and Report in Marine Engineering
+MAR3144 Project and Report in Naval Architecture
+MAR3145 Project and Report in Offshore Engineering
+MAR8005 Design and Implementation of Experiments
+MAR8011 Dynamics of Offshore Installations
+MAR8012 Design and Construction
+MAR8013 Asset Management
+MAR8014 Marine Liability Insurance and Law
+MAR8021 Advanced Offshore Design
+MAR8024 Ship Performance at Sea
+MAR8029 Marine Transport and Economics
+MAR8038 High Speed and Advanced Craft
+MAR8045 Fundamentals of Subsea Engineering  SEMESTER 1
+MAR8046 Material Corrosion  Flow Assurance Aspects
+MAR8047 Reliability and Integrity Management of Subsea Systems
+MAR8048 Subsea Surveying Positioning and Installation
+MAR8051 Design and Manufacture of Pipelines Risers and Umbilicals
+MAR8052 Dynamics of Subsea Installations
+MAR8056 Pipeline Engineering Diploma Project
+MAR8064 Research and Commercial Skills
+MAR8065 Marine Power Systems
+MAR8066 Marine Condition Monitoring
+MAR8068 Advanced Hydrodynamics
+MAR8072 Fundamentals of Naval Architecture
+MAR8073 Advanced Marine Structures
+MAR8074 Shipping Market Analysis and Risk Management
+MAR8075 Maritime Logistics and Ports
+MAR8076 Commercial Awareness
+MAR8077 Fundamentals of Pipeline Engineering
+MAR8078 Pipeline Structural Analysis
+MAR8080 Ship Chartering and Operations
+MAR8081 Subsea Engineering and Management Project
+MAR8090 Subsea Engineering and Management Project
+MAR8096 Dissertation
+MAR8097 Pipeline Engineering Project
+MAR8098 Dissertation
+MAR8099 Dissertation MRes
+MAR8101 Advanced Marine Engineering Design
+MAR8102 Marine Project Management
+MAR8103 Marine Systems Identification Modelling and Control
+MAR8104 Optimisation in Engineering Design
+MAR8105 Working Craft Design
+MAR8106 Marine Engineering
+MAR8107 Risk Reliability and Safety
+MAR8108 Structural and Materials Response to the Marine Environment
+MAR8109 The Regulatory Framework for the Marine Industry
+MAR8110 Advanced Structural Design and Analysis
+MAR8112 Marine Electrical and Electronic Systems
+MAR8114 Drilling and Subsea Production Technology
+MAR8115 Design of Fixed and Floating Offshore Systems
+MAR8116 Pipelines Moorings and Risers
+MAR8117 Decommissioning of Offshore Installations
+MAR8118 Lightweight Composite Structural Design
+MAR8120 Surveying Ships and Offshore Installations
+MAR8121 Ship Design
+MAR8122 Naval Architecture
+MAR8130 Excellence Through Programme Management
+MAR8131 Maritime Economics
+MAR8134 Marine Renewable EnergySources and Recovery
+MAR8135 Marine Project Management 2
+MAR8137 Maritime Economics 2
+MAR8138 Marine Production Business
+MAR8140 Yacht Design
+MAR8194 Postgraduate Diploma Dissertation
+MAR8499 Group Project and Report
+MEC1002 Materials Science I
+MEC1010 Design and Manufacturing I
+MEC1011 Mechanics I
+MEC1012 Mechanical Engineering Professional Skills I
+MEC2001 Materials Science II
+MEC2003 Applications of Thermofluid Dynamics
+MEC2007 Design and Manufacturing II
+MEC2008 Mechanical Engineering Professional Skills II
+MEC2009 Mechanics II
+MEC3014 Computational Modelling
+MEC3015 Instrumentation and Drive Systems
+MEC3017 Managing Engineering Operations
+MEC3018 Design for Industry
+MEC3019 Structural Optimisation and Crashworthiness
+MEC3022 Introduction to Biomedical Engineering BEng
+MEC3098 Mechanical Engineering Project
+MEC3101 Numerical and Analytical Methods B
+MEC3102 Robotics and Automation
+MEC3103 Product Design Engineering
+MEC3104 Developments in Materials and Processes
+MEC3105 Mechatronic Systems
+MEC3106 Production Quality and Innovation
+MEC3190 Mechanical Engineering Project
+MEC8023 Biomaterials and Tissue Engineering
+MEC8024 Vehicle Drives and Dynamics
+MEC8025 Mechatronics Design
+MEC8026 Robotics
+MEC8028 Design for Human  Systems Integration
+MEC8029 Design of Mechanical Power Transmissions
+MEC8030 Mechanical Power Transmissions Short Course
+MEC8039 Rail Environment and Energy
+MEC8041 Rail Planning and Timetabling
+MEC8042 Mechanical Power Transmissions
+MEC8043 Software in the Professional Engineering Context
+MEC8049 Orthopaedic Engineering
+MEC8050 Medical Technology Innovation
+MEC8051 Biomedical Additive Manufacture and Biofabrication
+MEC8052 Manufacturing Materials and Processes
+MEC8054 Introduction to Biomedical Engineering MSc
+MEC8095 MSc Project Mechanical and Systems Engineering
+MEC8099 Mechanical Engineering Team Project
+SFY0001 Basic Mathematics
+SFY0002 Basic Statistics
+SFY0003 Foundation Mathematics 1
+SFY0004 Foundation Mathematics 2
+SFY0005 Foundation of Chemistry
+SFY0006 Applications of Chemistry
+SFY0007 Foundation Year Project
+SFY0008 IT and Communications
+SFY0009 Foundation Year Project
+SFY0010 Mechanical Science
+SFY0011 Applied Mechanics O
+SFY0012 Electrical and Electronic Engineering O
+SFY0013 Materials Science O
+SFY0014 Foundation Physics A2
+SFY0015 Foundation Physics A
+SFY0016 Foundation Physics B
+SPG8001 Renewable Energy Resources
+SPG8002 Renewable Energy Photovoltaics  Geothermal Energy
+SPG8003 Renewable Energy Electrical Generation Systems
+SPG8004 Renewable Energy Grid Systems
+SPG8006 Renewable Energy Wind and Hydro Energy Technology
+SPG8007 Renewable Energy Hydrogen and Fuel Cell Technology
+SPG8008 Renewable Energy Biomass and Waste Technology
+SPG8009 Renewable Energy Policy Politics and Ethics
+SPG8012 Renewable Energy Energy Management
+SPG8013 Environmental Impact Assessment
+SPG8014 Introduction to Hydro Wind Wave and Tidal Energy
+SPG8016 Business Enterprise in Science and Engineering
+SPG8017 Introduction to Bioenergy and Photovoltaics
+SPG8024 Quantifying Energy Decision Making
+SPG8025 Energy from the Earth
+SPG8026 Renewable Energy Marine Energy Structures and Devices
+SPG8027 Project Management Appreciation
+SPG8028 Renewable Energy Renewable Heating and Cooling
+SPG8029 Renewable Energy Energy Storage
+SPG8093 Enterprise Project Diploma
+SPG8094 Enterprise Project
+SPG8095 Renewable Energy Masters Project and Report
+SPG8096 Renewable Energy Postgraduate Diploma Project and Report
+FMS8353 Screenwriting
+SEL1000 Introduction to Creative Writing
+SEL1008 The Nature of Language
+SEL1023 Transformations
+SEL1027 Introduction to the Structure of Language 1 Syntax and Phonology
+SEL1028 Introduction to the Structure of Language 2 Morphology and Meaning
+SEL1030 Close Reading
+SEL1031 Drama Theatre  Performance
+SEL1032 Language Variation and Change Dealing with Data
+SEL2000 Phonological Theory
+SEL2084 The Syntax of the Worlds Languages
+SEL2086 Introduction to Child and Adult Language Acquisition
+SEL2089 Syntactic Theory
+SEL2201 Writing the Renaissance
+SEL2202 Writing New Worlds 1660  1800
+SEL2205 Fictions of Migration
+SEL2207 Modernisms
+SEL2210 Independent Research Project
+SEL2211 Contexts Mind Cognition and Computation
+SEL2212 Early English Texts Patterns and Varieties
+SEL2215 Creative Practice
+SEL2217 Popular Performance Here and Now
+SEL2218 Research Project in English Literature  History
+SEL2219 Monsters Misery  Miracles Heroic Life in Old English Poetry
+SEL2223 Speakers as Wordsmiths the creation of new words in presentday English
+SEL2224 Poetry Workshop
+SEL2226 Theatre Script Workshop
+SEL2227 Prose Workshop
+SEL3005 Language Origins and Evolution
+SEL3006 Topics in Phonological Theory
+SEL3011 Growing Up Global Childhood and National Identity from Postwar to Present
+SEL3012 Immigrant Second Language  Literacy Acquisition
+SEL3016 Orgasms Odalisques Onanism Desire and the Body at the Fin de sicle
+SEL3046 English Grammar through Time
+SEL3055 Chaucer Shakespeare and the Book of the Future
+SEL3056 Advanced Sociolinguistics
+SEL3090 Chaucer Chivalry and Heresy in the Middle Ages
+SEL3091 Sex and Money Economies of the Victorian Novel
+SEL3094 Accents of English
+SEL3100 Other Renaissances Gender Race and Sexuality in Early Modern Culture
+SEL3324 Cultural Industries Placement Module Semester 1
+SEL3325 Cultural Industries Placement Module Semester 2
+SEL3326 Extended Study 1 Linguistics and English Language
+SEL3327 Extended Study 2 Linguistics and English Language
+SEL3329 Dissertation Linguistics and English Language
+SEL3333 File of Original Literary Work
+SEL3338 Home heritage history 20th century childrens literature
+SEL3340 Romantic Poetry Journeys of the Imagination
+SEL3341 Old English Texts and Translations
+SEL3346 Contemporary Documentary 1 Theory and Practice
+SEL3347 Contemporary Documentary 2 Theory  Practice
+SEL3349 The History of Linguistic Ideas
+SEL3352 Language developmentCrossdisciplinary approaches
+SEL3356 Madness Medicine and Modern Literature
+SEL3362 Dissertation in English Literature
+SEL3364 Independent Essay I English Literature
+SEL3365 Independent Essay II English Literature
+SEL3370 Writing the Postcolonial Nation Literature from the Indian Subcontinent
+SEL3372 Language and ethnicity in twentyfirst century Britain
+SEL3373 Women of Virtue and Women of Pleasure Sensibility in the Age of Reason
+SEL3378 Landscapes of American Modernism
+SEL3379 Enlightened Romantics writing on the margins
+SEL3388 CaribbeanUS Cultures
+SEL3390 A New Empire Fiction and the Rise of Global Capitalism
+SEL3391 Women on Trial Gender Power and Performance in Early Modern England
+SEL3393 Shakespeares Show Business
+SEL3395 The Victorians
+SEL5001 Overseas Exchange Semester 1
+SEL5002 Overseas Exchange Semester 2
+SEL8026 Generative Syntax
+SEL8029 Introduction to CrossLinguistic Syntax
+SEL8033 Evolutionary Linguistics
+SEL8040 Neurocognition of language development
+SEL8048 English Language  Linguistics Project
+SEL8116 Syntactic Analysis
+SEL8117 Phonetics and Phonology
+SEL8148 English MLitt Research Assignments
+SEL8149 English MLitt Dissertation
+SEL8154 Issues in Phonological Theory I
+SEL8163 The Sociolinguistics of Language and Society
+SEL8204 Lexical Innovation
+SEL8205 Issues in Phonological Theory II
+SEL8321 Portfolio of WorkDissertation
+SEL8329 Diachronic Syntax
+SEL8361 The Social History of English
+SEL8408 MA Writing Poetry Summer School 1
+SEL8410 MA Writing Poetry Annual Submission 1
+SEL8500 Research Methods in Language and Linguistics
+SEL8501 MA Sociolinguistics Dissertation
+SEL8505 Writing Workshop Prose
+SEL8506 Writing Workshop Poetry
+SEL8510 MA Linguistics Dissertation
+SEL8511 Research Methods in Language and Linguistics I
+SEL8512 Research Methods in Language and Linguistics II
+SEL8513 Variation and the Grammar
+SEL8515 The Longer Poem and the Sequence
+SEL8518 Writing for Children and Young Adults
+SEL8521 MA Writing Poetry Summer School 2
+SEL8522 MA Writing Poetry Annual Submission 2
+SEL8523 MA Writing Poetry Masterclass 1 NU
+SEL8524 MA Writing Poetry Masterclass 2 NU
+SEL8526 MA Writing Poetry Workshop 1 PS
+SEL8527 MA Writing Poetry Masterclass 1 PS
+SEL8528 MA Writing Poetry Workshop 2 PS
+SEL8529 MA Writing Poetry Masterclass 2 PS
+SEL8530 Research project for IPhD students
+SEL8531 Research methods for IPhD students
+SEL8533 Radicalisms
+SEL8535 Intermedialities
+SEL8536 Literary Geographies
+SEL8639 Ethnolinguistic variation
+SEL8640 The Profession of Writing
+SEL8641 Process
+SEL8642 Craft
+SEL8643 Introduction to Second Language Acquisition
+SEL8654 Psychology of Language Development
+SEL8670 Writing Workshop Creative NonFiction
+SEL8671 Creative Inheritance
+SEL8675 Childrens Literature Studies Past Present Future
+SEL8676 Issues in Sociolinguistics
+CHS8003 Prescribing in Older People Elearning
+CHS8005 Allergy Elearning
+CHS8006 Ageing  Health Elearning
+CHS8007 Clinical Research with Older People Elearning
+CHS8008 Biology of Ageing Elearning
+CHS8009 Molecular Pathology in Stratified Healthcare Elearning
+CHS8097 Clinical and Health Sciences Dissertation January Part 1 Elearning
+CHS8099 Clinical and Health Sciences Dissertation Sept Elearning
+CVR8001 Introduction to Cardiac Science
+CVR8002 Introduction to Respiratory and Sleep Science
+CVR8003 Introduction to Vascular Science
+CVR8004 Clinical Assessment and Investigation
+CVR8005 Introduction to Gastrointestinal Physiology
+CVR8006 Introduction to Urodynamic Science
+CVR8007 Diagnostic Approaches  Current Treatment of Cardiovascular Disorders
+CVR8008 Ultrasound Imaging in Cardiac Disease
+CVR8009 Diagnosis  Management of Cardiac Rhythm Disorders
+CVR8012 Respiratory and Sleep Science 2
+CVR8017 Lower Gastrointestinal Physiology  Endoanal Ultrasound
+CVR8018 Urodynamic Science 1
+CVR8019 Upper Gastrointestinal Physiology
+CVR8020 Urodynamic Science 2
+CVR8022 Vascular Science 1
+CVR8023 Vascular Science 2
+GNM8093 MSc Genomic Medicine Research Project Part 1 PT Jan
+GNM8094 PgDip Genomic Medicine Research Dissertation PT Jan
+GNM8095 PgDip Genomic Medicine Research Dissertation PT Sept
+GNM8096 PgDip Genomic Medicine Research Dissertation FT
+GNM8097 MSc Genomic Medicine Research Project Part 2 PT Jan
+GNM8098 MSc Genomic Medicine Research Project PT Sept
+HSC8001 Fundamentals of Research
+HSC8003 Advanced Social Determinants of Health
+HSC8006 Global Health Policy and Medicines Use
+HSC8007 Global Health in the Anthropocene
+HSC8027 Health Economics
+HSC8036 Health Statistics
+HSC8040 Introduction to Health Policy and Health Systems
+HSC8042 Public Health Intervention
+HSC8045 Public Health Protection
+HSC8047 Public Policy Health and Health Inequalities
+HSC8048 Health Care Quality
+HSC8051 Introduction to Qualitative Research Methods
+HSC8052 Further Qualitative Research Methods
+HSC8053 Introduction to Quantitative Research Methods
+HSC8054 Evaluative Methods in Health Services Research
+HSC8055 Introduction to systematic reviewing and critical appraisal
+HSC8056 Introduction to Global Health
+HSC8057 Global Health
+HSC8058 Applications of Epidemiology to Public Health
+HSC8059 Chronic Disease Epidemiology
+HSC8096 Dissertation Part 1 PT
+HSC8098 Social Science and Health Research Dissertation
+HSC8099 Dissertation FT
+MCR8001 Research Governance and Ethics
+MCR8002 Introduction to Research Study Design and Statistics
+MCR8003 Writing in a Research Setting
+MCR8006 Designing a Research Proposal
+MCR8007 Clinical Research Dissertation
+MCR8008 Clinical Trials
+MCR8009 Research Governance and Ethics Elearning
+MCR8010 Introduction to Research Study Design and Statistics Elearning
+MCR8011 Writing in a Research Setting Elearning
+MCR8013 Designing a Research Proposal Elearning
+MCR8015 Clinical Trials Elearning
+MCR8016 Clinical Research Statistics
+MCR8019 Clinical Research Statistics Elearning
+MCR8025 Clinical Research Dissertation Elearning
+MCR8029 Clinical Research Dissertation FT
+MCR8035 Clinical Research Dissertation Elearning
+MMB8003 The Biological Study of Behaviour
+MMB8004 Ageing  Health
+MMB8005 Experimental Medicine  Therapeutics
+MMB8006 Drug discovery and development
+MMB8007 Cancer Studies
+MMB8008 Cell Cycle Control and Cell Signalling in Health and Disease
+MMB8009 Clinical Epidemiology
+MMB8010 The Biological Basis of Psychiatric Illness  Its Treatment
+MMB8011 Biology of Ageing
+MMB8014 Genetics of Common Disease
+MMB8015 Applied Immunobiology of Human Disease
+MMB8016 Molecular Microbiology
+MMB8018 Research Methods in Protein Science
+MMB8019 Sensory Systems
+MMB8020 Scientific Basis of Neurological Disorders
+MMB8022 Stem Cells  Regenerative Medicine
+MMB8025 Transplantation Sciences
+MMB8030 Genetic Medicine
+MMB8031 Developmental Genetics
+MMB8032 Toxicology
+MMB8033 Surgical Anatomy
+MMB8034 Mitochondrial Biology  Medicine
+MMB8035 Diabetes
+MMB8036 Neuromuscular diseases bench to bedside
+MMB8037 Cardiovascular Science in Health and Disease
+MMB8040 Principles of Human Nutrition relevance to ageing ELearning
+MMB8041 Biology Assessment  Maintenance of Skeletal Health ELearning
+MMB8042 Muscle in the integrated musculoskeletal system ELearning
+MMB8043 Comparative Cognition Information Processing in Humans and Other Animals
+MMB8044 Exercise in Health and Disease
+MMB8045 Applied Animal Behaviour and Animal Welfare
+MMB8099 MRes Project
+MMB8100 Research Skills and Principles for the Biosciences
+MMS8102 Human Health and the Impact of Microbial Genomics
+MMS8199 Medical Sciences Dissertation
+MPY8001 Introduction to Medical Physics
+MPY8005 Radiotherapy Physics 1
+MPY8006 Radiotherapy Physics 2
+MPY8007 Radiation Safety Physics 1
+MPY8008 Radiation Safety Physics 2
+MPY8009 Imaging with Ionising Radiation 1
+MPY8010 Imaging with Ionising Radiation 2
+MPY8011 Imaging with Non Ionising Radiation 1
+MPY8012 Imaging with Non Ionising Radiation 2
+MSC8001 Introduction to Healthcare Science Professional Practice and Clinical Leadership
+MSC8002 Research Skills for Health Care Professionals Elearning
+MSC8003 Research Project 1 Identifying and Planning a Project
+MSC8004 Research Project 2 Conducting and Reporting a Project
+ONC8003 Research Methods 1 Elearning
+ONC8004 Developments in Diagnostic Imaging in Oncology Elearning
+ONC8005 Palliative Care Themes and Perspectives Elearning
+ONC8006 Management of Cancer  Psychosocial Issues Elearning
+ONC8007 Research Methods 2 Statistics Elearning
+ONC8008 Ethical Dimensions of CancerPalliative Care Elearning
+ONC8010 Handling Loss Grief and Bereavement Elearning
+ONC8011 Cancer Drugs and Technologies Product Pathway Provider  Patient Elearning
+ONC8012 Managing Pain Elearning
+ONC8013 Quality Improvement Elearning
+ONC8014 Dissertation Sept Elearning
+ONC8016 Contemporary Issues in Palliative Care Practice Management of Symptoms Other Than Pain in Advanced Diseases Elearning
+ONC8017 Multiprofessional Management of Cancer Part 1 Elearning
+ONC8018 Multiprofessional Management of Cancer Part 2 Elearning
+ONC8019 Pharmacology of Chemotherapeutic Agents Elearning
+ONC8021 Health Economics Elearning
+ONC8022 Cancer Cell Molecular Biology  Genetics Elearning
+ONC8023 Chemotherapy Nurse Training Elearning
+ONC8024 Chemotherapy Nurse Training Elearning
+ONC8025 Cancer Pathology and Molecular Applications for Screening Diagnosis and Treatment Elearning
+ONC8026 Research Methods 1 Elearning
+ONC8097 Dissertation Part 1 Jan Elearning
+GEO1010 Interconnected World
+GEO1015 Contemporary Human Geography of the UK
+GEO1016 Contemporary Human Geography of the UK Semester 1 for Exchange Students
+GEO1017 Contemporary Human Geography of the UK Semester 2 for Exchange Students
+GEO1018 Geographical Analysis
+GEO1022 Environmental Issues Semester 2 for Exchange Students
+GEO1100 Interconnected World Economic Social and Political Geographies  Semester 2
+GEO1102 Interconnected World Foundations and Development Geographies  Semester 1
+GEO1103 Quantitative Geographical Analysis
+GEO2037 Ireland Fieldtrip
+GEO2043 Key Methods for Human Geographers
+GEO2052 Physical Geography Fieldcourse 2 Iceland
+GEO2103 Development  Globalisation
+GEO2110 Social Geographies
+GEO2112 Student Exchange Semester 2
+GEO2124 The creative and knowledgebased economy Berlin field course
+GEO2125 Fieldwork at Home
+GEO2127 Doing Physical Geography Research Theory and Practice
+GEO2128 Comparative Urbanism and Central Europe Vienna and Bratislava Fieldcourse
+GEO2129 Development  Globalisation  Semester 1 Study Abroad
+GEO2130 Development  Globalisation  Semester 2 Study Abroad
+GEO2136 Global Environmental Change
+GEO2137 Key Methods for Physical Geographers
+GEO2138 Community Volunteering A Geography Perspective
+GEO2139 Exploring Everyday Political Geographies in a Divided City Nicosia
+GEO2222 Geography Fieldtrip for Module PreRegistration
+GEO2224 Sustainable Urban Development Barcelona Field Course
+GEO2225 Citizenship in a global city Hong Kong
+GEO2226 Glacial Environments
+GEO2228 Biogeography
+GEO2229 River Catchment Dynamics
+GEO2230 Global Environmental Change Sem 1 Study abroad
+GEO3041 Geographies of Commodities
+GEO3063 Militarism Space and Society
+GEO3102 Geopolitics
+GEO3110 Tectonic Geomorphology
+GEO3114 Local and Regional Development
+GEO3115 Student Exchange
+GEO3117 Global Water Resources
+GEO3128 Polar Environments
+GEO3130 Mapping the city the urban form transformation and experience
+GEO3135 Geographies of Gender and Generation
+GEO3136 Applied Geomorphology and Natural Hazards
+GEO3141 Cities of the Global South
+GEO3143 Community Volunteering A Geography Perspective
+GEO3145 Humanitarianism Representation Intervention and Rescue
+GEO3146 Geographies of Working Lives
+GEO3148 Emotional Geographies of Everyday Life
+GEO3149 Geographies of Film Representation and Critical Spectatorship
+GEO3150 Participatory Research and Development
+GEO3151 Geographies of Health
+GEO8015 Doing Geographical Research
+GEO8016 Philosophies in Human Geography
+GEO8018 Local and Regional Development and Governance
+GEO8089 Research Dissertation
+POL1000 Introduction to Politics and History
+POL1017 Governing Under Pressure The Politics of the UK  EU
+POL1032 Introduction to International Politics
+POL1045 Truth Lies and Politics
+POL1046 Order and Disorder The Shaping of the 21st Century
+POL1047 Power Participation and Democracy Comparative Perspectives
+POL1048 Foundations of Modern Political Thought
+POL1131 Studying Political Economy Ideas Theories and Skills
+POL2012 Politics of the Middle East
+POL2022 Government and Politics of the USA
+POL2033 Traditional East Asian Political Thought
+POL2034 The Politics and Policy of the European Union
+POL2045 British Politics State and Society
+POL2072 Student Exchange Semester 2
+POL2078 Critical International Politics
+POL2081 Research Methods in Politics
+POL2082 Political Violence and the Modern State
+POL2088 The Politics of Africa Africas place in Global Politics
+POL2090 Equality Diversity and Inclusion Social Issues in Contemporary Political Philosophy
+POL2093 Politics Participation and Citizenship in the Digital Age
+POL2096 Politics Work Placement
+POL2109 Global Development Introduction to International Political Economy
+POL2110 Security Studies
+POL2111 Democracy or Dictatorship What are the differences and how do we analyse them
+POL2112 History of Islamic and Arab Political Thought
+POL2113 Sex Gender and Power
+POL3043 GEUS Year Abroad
+POL3046 Dissertation in Politics
+POL3047 Project in Politics Semester 1
+POL3048 Project in Politics Semester 2
+POL3059 Democracy and the Constitution
+POL3071 Student Exchange  Semester 1
+POL3076 Student Exchange Dissertation students
+POL3079 The Government and Politics of Italy
+POL3081 International Political Thought
+POL3084 Student Exchange Semester 2 Dissertationresearch project
+POL3085 Student Exchange Semester 2
+POL3092 Political Parties and Elections in the UK
+POL3100 History of World Political Thought
+POL3103 Communitybased Research in Politics
+POL3104 The Fall and Rise of China
+POL3106 Democracy in Deeply Divided Societies
+POL3107 Documentary Film and World Politics
+POL3108 The Politics of the Far Right in Europe
+POL3109 Gender Campaigns and Media
+POL3110 International Organisation and Diplomacy
+POL3111 UK Parliamentary Studies
+POL3112 Can Democracy Be Saved
+POL3114 Animal and Environmental Ethics
+POL3116 The Ethics of War
+POL3117 Politics of Immigration
+POL3118 Environmental Governance and Policy
+POL8003 Integration in Europe
+POL8005 Theories and Theorists of International Political Economy
+POL8006 Theories of International Relations
+POL8018 The State in the International Political Economy
+POL8020 American Foreign Policy
+POL8029 The Politics of Global Change
+POL8038 Doing Political Research
+POL8039 Global Justice and Human Rights
+POL8040 War Terrorism and Peace Ethical Perspectives
+POL8041 Thinking About Politics
+POL8043 Globalisation Poverty and Development
+POL8044 Critical Geopolitics
+POL8048 World Politics and Popular Culture
+POL8051 Ethics in IR
+POL8057 Modern East Asian Political Thought
+POL8058 Sex Race and Biopolitics
+POL8059 The United Nations and Global Governance
+POL8098 Dissertation
+POL8099 Dissertation
+SOC1027 Comparing Cultures
+SOC1029 Doing Sociology
+SOC1030 The Sociological Imagination An Introduction to the Discipline
+SOC1031 Knowing in Sociology An Introduction to Theory Methods and Epistemology
+SOC1032 Politics and Society
+SOC1033 Understanding Everyday Life
+SOC2056 Sociology of Health and Illness
+SOC2058 Understanding Social Change and Transformation
+SOC2067 Consumer Cultures An Anthropological Perspective
+SOC2069 Researching Social Life I
+SOC2070 Researching Social Life II
+SOC2071 The Sociology of Childhood
+SOC2084 Social Invention of Central Europe
+SOC2085 Refugees and Displacement Borders Camps and Asylum
+SOC2086 Postdisciplinary Criminology Hermeneutics Poststructuralism and Cultural Theory
+SOC2087 Identity and Difference in Multicultural Britain
+SOC3045 Regulating Sexuality
+SOC3077 Making People Anthropology of Belonging Life and Death
+SOC3078 Dreamworlds Society and the utopian imagination
+SOC3085 Student Exchange
+SOC3089 Memory identity and nationbuilding in eastern Europe The view from anthropology
+SOC3094 Class in Everyday Life
+SOC3096 Educational Inequalities in a Global Age
+SOC3097 Dissertation
+SOC3098 Community and Conflict in the Countryside
+SOC3099 Sociology of Race and Ethnicity
+SOC8044 Being Belonging and Identity
+SOC8045 Sociology for the Anthropocene
+SOC8049 The Representation of Culture Debates About Ethnography in Anthropology
+SOC8051 The Sociology of Technology Materialities and Agency
+SOC8052 Theories of Society Power and Politics
+HSS2110 HSS Preregistration dummy module  semester 1
+HSS2120 HSS Preregistration dummy module  semester 1
+HSS2210 HSS Preregistration dummy module  semester 2
+HSS2220 HSS Preregistration dummy module  semester 2
+HSS2222 Place Literacies An interdisciplinary study of the North East region
+HSS2601 HaSS Erasmus Exchange Semester 1 60 Credits
+HSS2602 HaSS Erasmus Exchange Semester 2 60 credits
+HSS2701 HaSS Erasmus Exchange Semester 1 70 credits
+HSS2702 HaSS Erasmus Exchange Semester 2 70 credits
+HSS2801 HaSS Erasmus Exchange Semester 1 50 credits
+HSS2802 HaSS Erasmus Exchange Semester 2 50 credits
+HSS3110 HSS Preregistration dummy module  semester 1
+HSS3120 HSS Preregistration dummy module  semester 1
+HSS3210 HSS Preregistration dummy module  semester 2
+HSS3220 HSS Preregistration dummy module  semester 2
+HSS3601 HaSS Erasmus Exchange module sem 1 60 credits
+HSS8002 Information Skills
+HSS8003 Dissertation Preparation
+HSS8005 Introduction to Quantitative Methods
+HSS8006 Managing a PhD
+HSS8007 An Introduction to the Nature of Explanation and Enquiry
+HSS8013 WorkBased Project Inactive
+HSS8104 Qualitative Methodology in the Arts Humanities and Social Sciences Ext ended
+ARA1001 Stuff living in a material world
+ARA1027 Introduction to Archaeology
+ARA1028 Prehistoric Britain
+ARA1030 The Archaeology of Britain from the Romans to the 20th Century
+ARA2001 Archaeological Theory and Interpretation
+ARA2004 Animals Plants and People an Introduction to Environmental Archaeology
+ARA2011 Prehistoric Europe
+ARA2012 Fieldwork and Archaeological Practice
+ARA2016 Aegean Prehistory
+ARA2091 Archaeologies of the Roman Empire The Roman World from Augustus to Justinian
+ARA2092 The Medieval World AD 4001500
+ARA2097 Historical Archaeology of the Modern World post 1492
+ARA2101 Artefacts
+ARA3001 Dissertation in Archaeology
+ARA3002 Dissertation in Ancient History  Archaeology
+ARA3003 Dissertation in Archaeology  History
+ARA3004 Geoarchaeology
+ARA3013 Early Medieval Northern Europe
+ARA3016 The Archaeology of Byzantium and its Neighbours
+ARA3021 Frontier Communities of Roman Britain
+ARA3031 Historical Archaeology of Britain 1500Present
+ARA3036 Neolithic  Early Bronze Age Britain in its European Context
+ARA3114 Regionality and the Fall of Rome
+ARA3117 The Archaeology of Animal Bones
+ARA3118 Origins and Transformations Early Prehistoric Europe
+ARA3119 You are what you make the archaeology of technology and production
+ARA3121 Sex bodies and identities in Classical Greece
+ARA8025 Advanced Seminar in Artefact Studies Roman  Early Medieval
+ARA8030 Frontier Communities of Roman Britain
+ARA8036 Neolithic and Early Bronze Age Britain in its European Context
+ARA8099 Dissertation
+ARA8106 Independent Study Project in Archaeology
+ARA8107 Independent Study Project in Archaeology
+ARA8108 Independent Study Project in Archaeology 2
+ARA8116 The Archaeology of Byzantium and its Neighbours
+ARA8117 Archaeology of Animal Bones
+ARA8118 Origins and Transformations Early Prehistoric Europe
+ARA8119 You are what you make the archaeology of technology and production
+ARA8120 Recording Historic Buildings
+ARA8128 Armies and Frontiers of the Roman Empire
+ARA8129 Sex bodies and identities in Classical Greece
+ARA8131 The Rise of the Middle Sea An archaeological voyage across the prehistoric Mediterranean Inactive
+ARA8150 Graduate Seminar in Roman Archaeology
+ARA8172 Graduate Seminar in Byzantine Archaeology Inactive
+ARA8180 Early Medieval Britain and Europe
+ARA8182 Prehistoric Architecture Houses Monuments and beyond Inactive
+ARA8184 Bodies in Prehistoric Europe c 6500700 BC
+ARA8186 Ancient Technologies Understanding Metalwork
+ARA8190 Research Themes Theories and Skills in Archaeology I
+ARA8222 Regionality and the Fall of Rome
+ARA8234 Landscape Archaeology Theory and Practice
+ARA8235 Independent Study Project in Archaeology
+ARA8236 Independent Study Project in Archaeology
+ARA8290 Research Themes Theories and Skills in Archaeology II
+ARA9001 Archaeology MLitt Research Assignments
+ARA9002 Archaeology MLitt Dissertation
+ARA9003 Archaeology MLitt Research Assignments 2
+CAC1012 Greek and Roman Art and Archaeology
+CAC1013 Life and Literature in the Roman Republic
+CAC1014 Tragedy Comedy History The World of Greek Literature
+CAC1015 How Should I Live An Introduction to Ancient Moral Philosophy
+CAC2001 Researching the Classics
+CAC2038 Food for Thought GrecoRoman Dining and Sympotic Culture
+CAC2039 Beginnings in Latin Literature
+CAC2050 History Literature and Truth the case of the ancient historians
+CAC2052 Foundations of European Drama Tragedy in Greece and Rome
+CAC3000 Dissertation
+CAC3020 Independent Study Module for Q800 students
+CAC3038 Food for Thought GrecoRoman Dining and Sympotic Culture
+CAC3039 Beginnings in Latin Literature
+CAC3045 Human Dissection in Antiquity stage 3
+CAC3050 History Literature and Truth the case of the ancient historians Stage 3
+CAC3052 Foundations of European Drama Tragedy in Greece and Rome
+CAC8000 Research Skills and Dissertation Training
+CAC8009 Performance and Text
+CAC8010 Masterclass in Classics
+CAC8090 Dissertation for MA Classics and Ancient History
+CAC8106 Independent Study Project in Classics and Ancient History 1
+CAC8107 Independent Study Project in Classics and Ancient History 2
+CAC9001 Classics MLitt Research Assignments
+CAC9002 Classics MLitt Dissertation
+CAG1001 Beginners Greek in Action 1
+CAG1002 Beginners Greek in Action 2
+CAG1011 Intermediate Greek Language and Literature 1
+CAG1012 Intermediate Greek Language and Literature 2
+CAG2001 Level 2 Greek Interpretation of Texts
+CAG2002 Special Study in Greek Stage 2
+CAG3001 Level 3 Greek Interpretation of Texts
+CAG3002 Level 23 Greek Special Study Stage 3
+CAG8002 MA Greek Special Study
+CAG8003 MA Greek Special Study 2
+CAH1012 West meets East Greek History and Society 776323 BC
+CAH1014 The Roman world from Romulus to Heraclius history and culture from 753 BC to AD 641
+CAH2006 In Alexanders Footsteps Classical and Hellenistic Empires
+CAH2007 Caesars Gift Rome under the Emperors
+CAH2009 Portfolio in Ancient History I Commentaries
+CAH2015 Celluloid History I
+CAH2020 Greek and Roman Religions
+CAH2036 Greeks and Barbarians
+CAH2061 Slavery in GrecoRoman antiquity
+CAH2207 Caesars Gift Rome under the Emperors for V100 and VL12 Students Only
+CAH3000 Portfolio in Ancient History II Dissertation
+CAH3005 City of Athens Power Society and Culture
+CAH3010 The Life and Afterlife of Alexander the Great
+CAH3012 Geographical knowledge in the ancient world
+CAH3037 The New Empire of Diocletian and Constantine
+CAH8012 Geographical knowledge in the ancient world
+CAH8016 Graduate Seminar in Greek Archaeology
+CAH8020 Masterclass in Ancient History
+CAH8037 The New Empire of Diocletian and Constantine
+CAH8045 City of Athens
+CAH9001 Ancient History MLitt Research Assignments
+CAH9002 Ancient History MLitt Dissertation
+CLA1001 Beginners Latin in Action 1
+CLA1002 Beginners Latin in Action 2
+CLA1011 Intermediate Latin Language and Literature 1
+CLA1012 Intermediate Latin Language and Literature 2
+CLA2001 Level 2 Latin Interpretation of Texts
+CLA2002 Level 2 Latin Special Study Stage 2
+CLA2099 Special Study on an Aspect of Classical Influence in English Literature
+CLA3001 Level 3 Latin Interpretation of Texts
+CLA3002 Level 23 Latin Special Study Stage 3
+CLA3090 Special Study on an Aspect of Classical Influence in English Literature
+CLA8002 MA Latin Special Study
+HIS0001 Semeser One Substitute for Stage 3 HIS Capped Special Subject
+HIS0002 Semeser Two Substitute for Stage 3 HIS Capped Special Subject
+HIS1025 World Empires
+HIS1027 European History
+HIS1029 Varieties of History
+HIS1030 Evidence and Argument
+HIS1044 Aspects of British History
+HIS1046 The History of the Americas
+HIS2002 Fatal Allies AngloIrish Relations 17981998
+HIS2050 The European Enlightenment 17001789
+HIS2072 AngloSaxon England From Roman Britain to the Norman Conquest 410  1066
+HIS2078 Approaches to the History of Western Medicine
+HIS2085 PreColumbian and Spanish America
+HIS2086 Twentieth Century France 191495
+HIS2100 Erasmus Student Exchange
+HIS2101 Erasmus Student Exchange
+HIS2103 The Dark Ages Early Medieval Europe and its Neighbours 500900
+HIS2114 Death Dying  the Dead in Early Modern England 15001832
+HIS2122 Ideas and Revolutions 16401953
+HIS2124 A History of Contemporary Britain
+HIS2131 American Slavery American Freedom Black and White America in the Age of Revolutions
+HIS2132 The Criminal Atlantic in the Long Eighteenth Century Pirates Convicts and Rebels
+HIS2133 Society and Politics in Colonial India 1880s1947
+HIS2140 Survey History of Japan
+HIS2212 History and Memory in the United States
+HIS2219 Oral History and Memory
+HIS2234 Atlantic Slave Trade 1450 1870
+HIS2235 The Soviet Experiment 19171991
+HIS2239 Colonialism and PostColonialism in Egypt and Sudan
+HIS2240 Greece from ancient times to the 21st century Interdisciplinary approaches to the study of the past
+HIS2241 The History of Modern Germany 1806 until today
+HIS2242 Researching History
+HIS2249 Conflict Colonialism and Conspiracies The Politics Impact  Memory of the British Transition from Empire after 1945
+HIS2251 Order and Disorder in Early Modern British and Irish Society
+HIS3000 Reading History
+HIS3020 Writing History
+HIS3030 History and Society
+HIS3035 Elizabeth I the Politics of Religion
+HIS3131 China in Revolution
+HIS3135 The Nazi New Order in Europe
+HIS3181 The American Civil War 18611865
+HIS3195 Weimar Republic
+HIS3203 Madness Nerves and Narratives in Georgian Britain c 17141830
+HIS3205 Fascism in Italy 19141945
+HIS3206 The Irish Revolution 18791923
+HIS3212 Reconstruction and the New South 18651914
+HIS3219 Living Together Christians Muslims and Jews in Medieval Iberia
+HIS3229 The Spanish Second Republic and Civil War 19311939
+HIS3232 Civil Rights and Armalites Northern Ireland since 1969
+HIS3240 Civil Rights in America 19481975
+HIS3284 The Mexican Revolution
+HIS3295 Royal Portraits Christian Kings and Kingship c 870c 930
+HIS3321 VikingAge Scandinavia
+HIS3326 Women in Colonial South Asia Tradition Reform and Modernity
+HIS3328 Imagined Futures
+HIS3330 Islamism and its Origins
+HIS3331 Gods Terrible Voice the experience and impact of Plague in England 1500  1722
+HIS3332 The Haitian Revolution
+HIS3334 Talking Cures and Troubles An Oral History of Health and Medicine in Britain c 1948  2000
+HIS3335 Europe and the Ottoman Empire 14531798
+HIS3336 Punishing the Criminal Dead Crime Culture and Corpses in Modern Britain
+HIS3337 Russian Cities and Culture from Peter the Great to the Revolution
+HIS3339 The Moral Economy of Loyalty in Northern Ireland 192139  the Linen Lords and the Plebs
+HIS3341 Lunatic to Citizen Madness and Society since 1900
+HIS8023 Dissertation
+HIS8025 Pathway in British History
+HIS8052 Conflict in European History
+HIS8053 Conflict in European History Case Studies
+HIS8061 The Practice of History
+HIS8065 Russian Language for the MA European History Durham Uni
+HIS8066 Italian Language for the MA European History Durham Uni
+HIS8098 Research Skills and Dissertation Training
+HIS8104 Ideas and Influences in British History
+HIS8105 Reform and Resistance in British History
+HIS8106 Independent Study Project in History
+HIS8107 Independent Study Project in History
+HIS8120 Missions Missionaries and Empires in World History British European and Informal Empires
+HIS9001 History MLitt Research Assignments
+HIS9002 History MLitt Dissertation
+SHS8124 Introduction to the History of Medicine
+SHS8127 The Patient in History
+SHS8128 Diseases in History
+INU0101 English for Academic Purposes 20 credits
+INU0102 English for Academic Purposes 40 Credits Version
+INU0103 English for Academic Purposes  Foundation Sciences 40 Credits Version
+INU0104 Architecture 1
+INU0105 Architecture 2
+INU0106 Introduction to Accounting
+INU0107 Study Skills and Project
+INU0108 Introduction to British Institutions and Culture
+INU0110 Introduction to Business
+INU0111 Mathematics for Business
+INU0112 Introduction to the Study of Humanities and Social Science
+INU0113 Introduction to Sociology
+INU0114 Mathematics for Physical Sciences and Engineering 1
+INU0115 Mathematics for Physical Sciences and Engineering 2
+INU0116 Foundation Physics
+INU0117 Foundation Chemistry
+INU0118 Foundation Biology 1
+INU0119 Foundation Biology 2
+INU0120 Foundation Mathematics and Statistics
+INU0121 Principles of Computing
+INU0122 Study Skills and ICT for Science and Engineering
+INU0123 English for Academic Purposes for Foundation Architecture 40 Credits Version
+INU0124 Architectural Communication for Foundation Architecture
+INU0125 Architecture Culture  History Foundation Architecture
+INU0132 English for Academic Purposes 40 Credits Version
+INU0501 English for Academic Purposes 20 credits
+INU0502 English for Academic Purposes 40 Credits Version
+INU0503 English for Academic Purposes  Foundation Sciences 40 Credits Version
+INU0504 Architecture 1
+INU0505 Architecture 2
+INU0506 Introduction to Accounting
+INU0507 Study Skills and Project
+INU0508 Introduction to British Institutions and Culture
+INU0510 Introduction to Business
+INU0511 Mathematics for Business
+INU0512 Introduction to the Study of Humanities and Social Science January Intake
+INU0513 Introduction to Sociology January Intake
+INU0514 Mathematics for Physical Sciences and Engineering 1
+INU0515 Mathematics for Physical Sciences and Engineering 2
+INU0516 Foundation Physics
+INU0517 Foundation Chemistry
+INU0518 Foundation Biology 1
+INU0519 Foundation Biology 2
+INU0520 Foundation Mathematics and Statistics
+INU0521 Principles of Computing
+INU0522 Study Skills and ICT for Science and Engineering
+INU0523 English for Academic Purposes for Foundation Architecture 40 Credits Version
+INU0524 Architectural Communication for Foundation Architecture
+INU0525 Architecture Culture  History
+INU0532 English for Academic Purposes 40 Credits Version
+INU1001 Advanced Business English
+INU1002 International Business English
+INU1004 Academic Reading and Writing Part A
+INU1005 Academic Reading and Writing Part B
+INU1014 Academic Reading and Writing Part A
+INU1101 English for Academic Purposes INTO International Year One  Business
+INU1102 English for Academic Purposes
+INU1105 Marketing INTO International Year One  Business
+INU1106 Management  Organisation INTO International Year One  Business
+INU1107 Academic and Professional Development INTO International Year One  Business
+INU1109 Architectural Communication for Intl Year One Architecture
+INU1110 Introduction to Economics INTO International Year One  Business
+INU1111 Quantitative Methods INTO International Year One  Business
+INU1114 Architectural Design 1
+INU1115 Architectural Design 2
+INU1116 Architecture Technology
+INU1117 Architectural History and Theory
+INU1501 English for Academic Purposes INTO International Year One  Business Jan Intake
+INU1502 English for Academic Purposes
+INU1505 Marketing INTO International Year One  Business Jan Intake
+INU1506 Management  Organisation INTO International Year One  Business Jan Intake
+INU1507 Academic and Professional Development INTO International Year One  Business Jan Intake
+INU1509 Architectural Communication for Intl Year One Architecture
+INU1510 Introduction to Economics INTO International Year One  Business Jan Intake
+INU1511 Quantitative Methods INTO International Year One  Business Jan Intake
+INU1514 Architectural Design 1
+INU1515 Architectural Design 2
+INU1516 Architecture Technology
+INU1517 Architectural History and Theory
+INU3102 English for Academic Purposes Graduate Diploma
+INU3103 English for Academic Purposes Graduate Diploma for Architecture
+INU3104 Financial Analysis
+INU3105 Business and Management
+INU3107 Study  Research Skills INTO Graduate Diploma
+INU3110 Economics INTO Graduate Diploma
+INU3112 Social and Cultural Studies INTO Graduate Diploma
+INU3113 International Relations
+INU3114 Contextualised Design for Built Environments
+INU3115 Design in Urban Context
+INU3116 Professional Studies Graduate Diploma for Architecture
+INU3119 Architecture Culture  History Graduate Diploma for Architecture
+INU3501 English for Academic Purposes Graduate Diploma January Intake
+INU3502 English for Academic Purposes Graduate Diploma January Intake
+INU3503 English for Academic Purposes Graduate Diploma for Architecture January Intake
+INU3504 Financial Analysis
+INU3505 Business and Management
+INU3506 Management and Organisation INTO Graduate Diploma January Intake
+INU3507 Study  Research Skills INTO Graduate Diploma January Intake
+INU3508 UK Institutions and Culture INTO Graduate Diploma January Intake
+INU3510 Economics INTO Graduate Diploma January Intake
+INU3512 Social and Cultural Studies INTO Graduate Diploma January Intake
+INU3513 International Relations
+INU3514 Contextualised Design for Built Environments
+INU3515 Design in Urban Context
+INU3516 Professional Studies Graduate Diploma for Architecture January Intake
+INU3519 Architecture Culture  History Graduate Diploma for Architecture January Intake
+INU3522 English for Academic Purposes Graduate Diploma in Music
+INU3524 Creative Practice Graduate Diploma in Music
+INU3525 Music in Context Graduate Diploma in Music
+INU3526 Harmony and Analysis Graduate Diploma in Music
+INU3527 Study and Research Skills Graduate Diploma in Music
+CEG2002 Statistics and Numerical Methods for Civil Engineers
+CEG2705 Survey Mathematics
+ENG2011 Engineering Mathematics II
+ENG2012 Engineering Mathematics II and Statistical Data Analysis
+MAR1002 Marine Statistics
+MAS1403 Quantitative Methods for Business Management
+MAS1601 Introduction to Calculus
+MAS1602 Introductory Algebra Complex Numbers Vectors and Matrices
+MAS1603 Multivariable Calculus and Differential Equations
+MAS1604 Introduction to Probability
+MAS1701 Logic Sets and Counting
+MAS1702 Number Systems
+MAS1801 Problem Solving and Computing I
+MAS1802 Problem Solving and Computing II
+MAS1901 Optimisation with Constraints
+MAS1902 Dynamics
+MAS2403 Statistical Methods for Marketing  Management
+MAS2501 Financial Mathematics
+MAS2502 Introduction to Computing and Problem Solving
+MAS2602 Computing for Mathematics and Statistics
+MAS2603 Group Project
+MAS2701 Linear Algebra
+MAS2702 Complex Analysis
+MAS2703 Algebra
+MAS2704 Numbers and Ciphers
+MAS2801 Vector Calculus
+MAS2802 Differential Equations Transforms and Waves
+MAS2803 Fluid Dynamics
+MAS2901 Introduction to Statistical Inference
+MAS2902 Introduction to Regression and Stochastic Modelling
+MAS2903 An Introduction to Bayesian methods
+MAS3091 Group Project
+MAS3701 Foundations of group theory
+MAS3702 Linear analysis
+MAS3703 Geometries and designs
+MAS3704 Coding Theory
+MAS3705 Matrix analysis
+MAS3706 Topology
+MAS3707 Number Theory and Cryptography
+MAS3708 Graphs and symmetry
+MAS3709 Representation theory
+MAS3801 Methods for Differential Equations
+MAS3802 Quantum Mechanics
+MAS3803 Advanced Fluid Dynamics
+MAS3804 Relativity and Cosmology
+MAS3805 Classical Fields
+MAS3806 Partial Differential Equations and Nonlinear Waves
+MAS3807 Computational Modelling
+MAS3808 Instabilities
+MAS3809 Variational Methods and Lagrangian Dynamics
+MAS3901 Applied Probability
+MAS3902 Bayesian Inference
+MAS3903 Linear Models
+MAS3904 Stochastic Financial Modelling
+MAS3905 Statistical Inference
+MAS3906 Generalized Linear Models
+MAS3907 Big Data Analytics
+MAS3908 Experimental Design
+MAS3910 Discrete Stochastic Modelling
+MAS3912 Survival Analysis
+MAS8051 Mathematics  Statistics iPhD Research Skills
+MAS8052 Mathematics  Statistics iPhD Project Module
+MAS8091 MMath Project
+MAS8380 Mathematics and statistics for computer scientists
+MAS8382 Time Series Data
+MAS8383 Statistics for Big Data
+MAS8391 MMathStat Project
+MAS8401 Numeric Skills Statistics and Mathematics
+MAS8403 Statistical Foundations of Data Science
+MAS8404 Statistical Learning for Data Science
+MAS8405 Bayesian Data Analysis
+MAS8703 Geometries and designs
+MAS8704 Coding Theory
+MAS8705 Matrix analysis
+MAS8708 Graphs and symmetry
+MAS8709 Representation theory
+MAS8751 Algebraic Topology
+MAS8752 Galois Theory
+MAS8753 Functional Analysis
+MAS8754 Topics in Analysis
+MAS8804 Relativity and Cosmology
+MAS8806 Partial Differential Equations and Nonlinear Waves
+MAS8808 Instabilities
+MAS8809 Variational Methods and Lagrangian Dynamics
+MAS8851 Quantum Fluids
+MAS8852 Geophysical  Astrophysical Fluids
+MAS8853 General Relativity
+MAS8854 Advanced Concepts of Applied Mathematics
+MAS8904 Stochastic Financial Modelling
+MAS8905 Statistical Inference
+MAS8907 Big Data Analytics
+MAS8910 Discrete Stochastic Modelling
+MAS8912 Survival Analysis
+MAS8951 Modern Bayesian Inference
+MAS8952 Topics in Statistics
+PHY1020 Dynamics
+PHY1021 Introductory Astrophysics
+PHY1022 Vibrations Waves and AC Theory
+PHY1023 Introductory Electromagnetism and Materials
+PHY1025 Introductory Quantum Mechanics
+PHY1029 Multivariate Calculus and Differential Equations
+PHY1030 Laboratory Physics 1
+PHY1031 Introductory Calculus
+PHY1032 Introductory Algebra Complex Numbers Vectors and Matrices
+PHY2020 Principles of Quantum Mechanics
+PHY2021 Principles of Electromagnetism
+PHY2022 Thermodynamics
+PHY2023 Statistical Mechanics
+PHY2024 Principles of Materials and Solidstate Physics
+PHY2026 Vector Calculus
+PHY2027 Semiconductor Devices
+PHY2028 Laboratory Physics 2
+PHY2029 Physics in the Modern World
+PHY2031 Differential Equations Transforms and Waves
+PHY2032 Optics
+PHY2033 Fluid Dynamics
+PHY2034 Computational Methods for Theoretical Physics 1
+PHY3020 Advanced Quantum Mechanics
+PHY3022 Relativity and Cosmology
+PHY3023 Advanced Materials and SolidState Physics
+PHY3024 Atoms Molecules Nuclei Particles
+PHY3025 Group Project
+PHY3026 Electronic Devices
+PHY3027 Project
+PHY3028 Computational Modelling
+PHY3029 Variational Methods and Lagrangian Dynamics
+PHY3032 Advanced Electromagnetism
+PHY3033 Advanced Astrophysics
+PHY3034 Theoretical Project
+PHY3035 Methods for Differential Equations
+PHY3036 Partial Differential Equations and Nonlinear Waves
+PHY3037 Photonics
+PHY3038 Biophysics
+PHY3039 Group Project MPhys
+PHY3041 Advanced Fluid Dynamics
+PHY8002 Research Skills I Scientific Methods
+PHY8003 Research Skills II Project Proposal
+PHY8004 Advanced Sample Fabrication and Characterization Techniques
+PHY8005 Computational Research Skills in Physics
+PHY8006 Advanced Topic in Physics
+PHY8007 Research Project
+PHY8008 Laboratory Skills
+PHY8029 Quantum Fluids
+PHY8030 Applied Solid State
+PHY8031 Quantum Information and Technology
+PHY8032 Geophysical and Astrophysical Fluid Dynamics
+PHY8033 Theoretical Research Project Inactive
+PHY8034 Advanced Concepts of Applied Mathematics Inactive
+PHY8035 Quantum Modelling of Molecules Solids and Nanostructures
+PHY8036 Extended Project
+PHY8038 General Relativity
+PHY8039 Electronic Device Fabrication
+BBF0001 Foundation Biology 1
+BBF0002 Foundation Biology 2
+BBF0003 Foundation Chemistry
+BBF0004 Foundation Physics
+BBF0006 English for Academic Purposes 40 Credits Version
+BBF0007 Foundation Medical Studies
+BBF0008 Study Skills and ICT for Science and Medicine
+CHN1005 Introduction to Chinese Culture
+CHN1065 Level A HE Entry Level Chinese I
+CHN1066 Level A HE Entry Level Chinese II
+CHN2004 Contemporary Chinese Society
+CHN2010 Level B HE Intermediate Chinese
+CHN2110 Level B HE Intermediate Chinese  Exchange Semester 1
+CHN2210 Level B HE Intermediate Chinese  Exchange Semester 2
+CHN4004 Ethnicity and Nationalism in Contemporary China
+CHN4010 Level C HE Advanced Chinese
+CHN4040 Level D HE Further Advanced Chinese for 3year programme
+CHN4061 Level D HE Further Advanced Chinese
+CHN4110 Level C HE Advanced Chinese  Exchange Semester 1
+CHN4210 Level C HE Advanced Chinese  Exchange Semester 2
+CHN7003 Translating I
+CHN7010 Simultaneous Interpreting 1
+CHN7015 Sight Translation Exercise
+CHN7016 Consecutive Interpreting I
+CHN8024 Consecutive Interpreting II
+CHN8025 Simultaneous Interpreting II
+CHN8030 Specialised Translation Chinese to English
+CHN8031 Specialised Translation English to Chinese
+CHN8033 Drama Translation for Translators and Interpreters
+CHN8034 Public Service Interpreting
+CHN8035 Chinese tofrom English Subtitle and Video Game Translation
+FMS8055 Approaches to Film Theory and History
+FMS8099 Dissertation
+FMS8355 Stars Systems Theories Nations
+FMS8356 Exhibition Cultures
+FMS8357 Cinematic Others
+FMS8359 Professional Placement
+FMS8360 Researching Film Skills and Methods
+FMS9001 Film Studies MLitt Research Assignments
+FMS9002 Film Studies MLitt Dissertation
+FRE1065 Level A HE Entry Level French I
+FRE1066 Level A HE Entry Level French II
+FRE1071 Level B HE Intermediate French
+FRE1171 Level B HE Intermediate French  Exchange Semester 1
+FRE1271 Level B HE Intermediate French  Exchange Semester 2
+FRE2005 Classic French Cinema
+FRE2009 Paris Aspects of History and Culture
+FRE2010 La France au XXe Sicle de la Grande Guerre  la Crise Inactive
+FRE2013 Ethnography for Language Learners French
+FRE2044 Linguistic Variation in French
+FRE2061 Level C HE Advanced French
+FRE2109 Paris Aspects of History and Culture  Part 1
+FRE2161 Level C HE Advanced French  Exchange Semester 1
+FRE2209 Paris Aspects of History and Culture  Part 2
+FRE2261 Level C HE Advanced French  Exchange Semester 1
+FRE3004 French Writing Skills Translation II Exchange
+FRE3052 French Writing Skills Translation I Exchange
+FRE4003 Occupation and Resistance Literary and Cinematic Responses to the Second World War in France
+FRE4007 Les valeurs rpublicaines le systme denseignement et le social renewal Inactive
+FRE4014 Historical Perspectives on the French Language
+FRE4015 From Experimental to Explicit Translating Womens Writing in French
+FRE4016 Contemporary Life Writing in French Textual and Visual Experiment
+FRE4081 Level D HE Further Advanced French Advanced Writing Skills
+FRE4082 Level D HE Further Advanced French Language for Professional  Academic Purposes
+FRE4083 Level D HE Further Advanced French Translation  Interpreting
+FRE4181 Level D HE Further Advanced French Advanced Writing Skills  Exchange Students Semester 1
+FRE4182 Level D HE Further Advanced French Language for Professional  Academic Purposes  Exchange Students Semester 1
+FRE4183 Level D HE Further Advanced French Interpreting  Exchange Students Semester 1
+FRE4281 Level D HE Further Advanced French Advanced Writing Skills  Exchange Students Semester 2
+FRE4282 Level D HE Further Advanced French Language for Professional  Academic Purposes  Exchange Students Semester 2
+FRE4283 Level D HE Further Advanced French Translation  Exchange Students Semester 2
+GER1016 Deutschland zwischen 1871 und 1945
+GER1065 Level A HE Entry Level German I
+GER1066 Level A HE Entry Level German II
+GER1071 Level B HE Intermediate German
+GER1116 Deutschland zwischen 1871 und 1945  Part 1
+GER1171 Level B HE Intermediate German  Exchange Semester 1
+GER1271 Level B HE Intermediate German  Exchange Semester 2
+GER2010 A Cultural History of Berlin Cabaret Catastrophe Capital
+GER2011 M for Murder Crime Law and Justice in Modern German Literature and Film
+GER2013 Nature and Ecology in German Culture
+GER2031 Beginners Dutch
+GER2036 Die Bundesrepublik Deutschland bis 1990
+GER2061 Level C HE Advanced German
+GER2111 M for Murder Crime Law and Justice in Modern German Literature and Film  Part 1
+GER2131 Beginners Dutch  Part 1
+GER2161 Level C HE Advanced German  Exchange Semester 1
+GER2261 Level C HE Advanced German  Exchange Semester 2
+GER3052 German Writing Skills Translation I Exchange
+GER4004 Intermediate Dutch
+GER4014 German Representations of the Holocaust
+GER4015 A Comparative History of German and English phonology morphology syntax and lexicon
+GER4016 The Future Its History and Its Future
+GER4081 Level D HE Further Advanced German Advanced Writing Skills
+GER4082 Level D HE Further Advanced German Language for Professional  Academic Purposes
+GER4083 Level D HE Further Advanced German Translation  Interpreting
+GER4104 Intermediate Dutch  Part 1
+GER4181 Level D HE Further Advanced German Advanced Writing Skills  Exchange Students Semester 1
+GER4182 Level D HE Further Advanced German Language for Professional  Academic Purposes  Exchange Students Semester 1
+GER4183 Level D HE Further Advanced German Interpreting  Exchange Students Semester 1
+GER4281 Level D HE Further Advanced German Advanced Writing Skills  Exchange Students Semester 2
+GER4282 Level D HE Further Advanced German Language for Professional  Academic Purposes  Exchange Students Semester 2
+GER4283 Level D HE Further Advanced German Translation  Exchange Students Semester 2
+JPN1005 Introduction to Japanese History and Culture
+JPN1065 Level A HE Entry Level Japanese I
+JPN1066 Level A HE Entry Level Japanese II
+JPN2004 Contemporary Japanese Popular Culture
+JPN2010 Level B HE Intermediate Japanese
+JPN4002 Contemporary Japanese Animation
+JPN4006 Literary and cultural expressions in contemporary Japan
+JPN4010 Level C HE Advanced Japanese
+JPN4040 Level D Further Advanced Japanese for 3 year programme
+JPN4061 Level D Further Advanced Japanese
+JPN4110 Level C HE Advanced Japanese  Exchange Semester 1
+JPN4161 Level D Further Advanced Japanese  Exchange Semester 1
+JPN4210 Level C HE Advanced Japanese  Exchange Semester 2
+JPN4261 Level D Further Advanced Japanese  Exchange Semester 2
+LAS1010 An Introduction to Latin America
+LAS2028 Diversidad Cultural en America Latina
+LAS2030 Comparative History of HispanoAmerica and Brazil from Independence to the Mexican Revolution 178918101917
+LAS2032 Caribbean Imaginaries Image Text Music
+LAS4001 InterAmerican Relations from the SpanishAmerican War 1898 to the end of the Cold War 19891991
+LAS4005 Multilingualism and Society in Latin America
+LAS4010 Cultura y Poltica en Colombia
+LCH1065 Level A HE Entry Level Chinese I
+LCH1066 Level A HE Entry Level Chinese II
+LCH2010 Level B HE Intermediate Chinese
+LCH3000 Level B Chinese Language for Business
+LCH4010 Level C HE Advanced Chinese
+LSM1023 Language Project for Students of International Business Management
+LSP1065 Level A HE Entry Level Spanish I
+LSP1066 Level A HE Entry Level Spanish II
+LSP1071 Level B HE Intermediate Spanish
+LSP2061 Level C HE Advanced Spanish
+LSP4082 Level D HE Further Advanced Spanish Language for Professional  Academic Purposes
+POR1065 Level A HE Entry Level Portuguese I
+POR1066 Level A HE Entry Level Portuguese II
+POR2010 Level B HE Intermediate Portuguese
+POR2110 Level B HE Intermediate Portuguese  Exchange Semester 1
+POR2210 Level B HE Intermediate Portuguese  Exchange Semester 2
+POR4001 Culturas Lusfonas em Perspetiva Portugal e Brasil
+POR4010 Level C HE Advanced Portuguese
+POR4110 Level C HE Advanced Portuguese  Exchange Semester 1
+POR4210 Level C HE Advanced Portuguese  Exchange Semester 2
+SML1018 Introduction to Literature
+SML1019 Introduction to Linguistics
+SML1021 Introduction to International Film
+SML1022 Introduction to Cultural Studies
+SML1023 Language Project for Students of International Business Management
+SML1118 Introduction to Literature  Part 1
+SML1121 Introduction to International Film  Part 1
+SML1218 Introduction to Literature  Part 2
+SML1221 Introduction to International Film  Part 2
+SML2011 Cities in East Asian Cinema Culture History and Identity
+SML2014 An Introduction to Italian language and culture
+SML3004 Year Abroad ePortfolio YAeP
+SML3006 Study Abroad
+SML3007 Year Abroad Work Placement Report 1
+SML3008 Year Abroad Work Placement Report 2
+SML3009 Year Abroad Project 1
+SML3010 Year Abroad Project 2
+SML4003 Communicating and Teaching Languages for Undergraduate Ambassadors
+SML4004 Intermediate Italian
+SML4099 Dissertation
+SML7000 Information Technology for Translators and Interpreters
+SML7001 Translation Studies I
+SML8004 Literary Translation
+SML8009 Research Methods in Translating and Interpreting
+SML8012 Translation Practice and Principles
+SML8013 Translation Workshop
+SML8014 Liaison Interpreting
+SML8015 Consecutive Interpreting
+SML8016 Translation Project
+SML8017 Translation Practice from Second Foreign Language
+SML8018 Translating for the European Unions Institutions
+SML8023 Profession Processes and Society in Translating and Interpreting
+SML8098 Dissertation
+SML8099 TranslatingInterpreting Project
+SML9001 Modern Languages MLit Research Assignements
+SML9002 Modern Languages Dissertation
+SML9003 Translation Studies MLitt Research Assignments
+SML9024 Translation Studies MLitt Dissertation
+SPA1001 Business Spanish
+SPA1019 Introduction to History Culture and Society of the Iberian Peninsula
+SPA1065 Level A HE Entry Level Spanish I
+SPA1066 Level A HE Entry Level Spanish II
+SPA1071 Level B HE Intermediate Spanish
+SPA1171 Level B HE Intermediate Spanish  Exchange Semester 1
+SPA1271 Level B HE Intermediate Spanish  Exchange Semester 2
+SPA2001 Business Spanish 2
+SPA2019 World Spanish
+SPA2021 Introduction to Catalan
+SPA2022 The Contemporary Hispanic City Narrative Cartographies
+SPA2025 Representations of Revolution Dictatorship and Democracy in Spain and Latin America
+SPA2061 Level C HE Advanced Spanish
+SPA2121 Introduction to Catalan  Part 1
+SPA2161 Level C HE Advanced Spanish  Exchange Semester 1
+SPA2261 Level C HE Advanced Spanish  Exchange Semester 2
+SPA3052 Spanish Writing Skills Translation Exchange
+SPA4002 Intermediate Catalan
+SPA4005 Cultura Popular en Latinoamrica y Espaa
+SPA4007 Spanish and Romance Word analysis
+SPA4008 Youth Cultures in Spain Portugal  Latin America
+SPA4081 Level D HE Further Advanced Spanish Advanced Writing Skills
+SPA4082 Level D HE Further Advanced Spanish Language for Professional  Academic Purposes
+SPA4083 Level D HE Further Advanced Spanish Translation  Interpreting
+SPA4102 Intermediate Catalan  Part 1
+SPA4181 Level D HE Further Advanced Spanish Advanced Writing Skills  Exchange Students Semester 1
+SPA4182 Level D HE Further Advanced Spanish Language for Professional  Academic Purposes  Exchange Students Semester 1
+SPA4183 Level D HE Further Advanced Spanish Interpreting  Exchange Students Semester 1
+SPA4281 Level D HE Further Advanced Spanish Advanced Writing Skills  Exchange Students Semester 2
+SPA4282 Level D HE Further Advanced Spanish Language for Professional  Academic Purposes  Exchange Students Semester 2
+SPA4283 Level D HE Further Advanced Spanish Translation  Exchange Students Semester 2
+TRI1001 Interpreting Theory and Practice 1
+TRI1002 Translation Theory and Practice 1
+TRI1102 Translation Theory and Practice 1  Part 1
+TRI1202 Translation Theory and Practice 1  Part 2
+TRI2001 Interpreting Theory and Practice 2
+TRI2002 Translation Theory and Practice 2
+TRI2102 Translation Theory and Practice 2  Part 1
+TRI2202 Translation Theory and Practice 2  Part 2
+TRI4001 Interpreting Theory and Practice 3
+TRI4002 Translation Theory and Practice 3
